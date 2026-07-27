@@ -1,0 +1,920 @@
+Started test 100: Number of agents: 5, World size: 40, Obstacle probability: 0.27
+[EPISODE 100] Success: False | Steps: 256 || Collisions: 253.0 | | Reward: -506.9 | On Goal: 0.0 | Blocking: 0.0 | Time: 32.90s
+Started test 200: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 200] Success: False | Steps: 256 || Collisions: 181.4 | | Reward: -385.17999999999824 | On Goal: 0.0 | Blocking: 0.0 | Time: 36.16s
+Started test 100: Number of agents: 5, World size: 60, Obstacle probability: 0.14
+[EPISODE 100] Success: False | Steps: 256 || Collisions: 65.0 | | Reward: -187.30000000000015 | On Goal: 0.0 | Blocking: 0.0 | Time: 35.63s
+Started test 300: Number of agents: 5, World size: 70, Obstacle probability: 0.15
+[EPISODE 300] Success: False | Steps: 256 || Collisions: 191.8 | | Reward: -410.62000000000006 | On Goal: 0.0 | Blocking: 0.0 | Time: 36.26s
+Started test 400: Number of agents: 5, World size: 70, Obstacle probability: 0.14
+[EPISODE 400] Success: False | Steps: 256 || Collisions: 198.8 | | Reward: -414.75999999999857 | On Goal: 0.0 | Blocking: 0.0 | Time: 35.99s
+Started test 500: Number of agents: 5, World size: 40, Obstacle probability: 0.18
+[EPISODE 500] Success: False | Steps: 256 || Collisions: 253.2 | | Reward: -507.23999999999995 | On Goal: 0.0 | Blocking: 0.0 | Time: 30.17s
+Started test 200: Number of agents: 5, World size: 10, Obstacle probability: 0.29
+[EPISODE 200] Success: False | Steps: 256 || Collisions: 154.8 | | Reward: -339.959999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 25.89s
+Started test 600: Number of agents: 5, World size: 50, Obstacle probability: 0.21
+[EPISODE 600] Success: False | Steps: 256 || Collisions: 182.0 | | Reward: -386.19999999999925 | On Goal: 0.0 | Blocking: 0.0 | Time: 33.59s
+Started test 700: Number of agents: 5, World size: 30, Obstacle probability: 0.28
+[EPISODE 700] Success: False | Steps: 256 || Collisions: 105.8 | | Reward: -273.5799999999987 | On Goal: 0.0 | Blocking: 0.0 | Time: 31.07s
+Started test 800: Number of agents: 5, World size: 30, Obstacle probability: 0.14
+[EPISODE 800] Success: False | Steps: 256 || Collisions: 128.2 | | Reward: -304.8199999999987 | On Goal: 50.6 | Blocking: 0.0 | Time: 30.29s
+Started test 300: Number of agents: 5, World size: 70, Obstacle probability: 0.30
+[EPISODE 300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 36.84s
+Started test 900: Number of agents: 5, World size: 60, Obstacle probability: 0.20
+[EPISODE 900] Success: False | Steps: 256 || Collisions: 90.6 | | Reward: -230.8199999999998 | On Goal: 0.0 | Blocking: 0.0 | Time: 34.55s
+Started test 1000: Number of agents: 5, World size: 60, Obstacle probability: 0.21
+[EPISODE 1000] Success: False | Steps: 256 || Collisions: 149.8 | | Reward: -339.0999999999985 | On Goal: 0.0 | Blocking: 0.0 | Time: 34.13s
+Started test 1100: Number of agents: 5, World size: 20, Obstacle probability: 0.18
+[EPISODE 1100] Success: False | Steps: 256 || Collisions: 204.4 | | Reward: -424.2799999999992 | On Goal: 0.0 | Blocking: 0.0 | Time: 28.57s
+Started test 400: Number of agents: 5, World size: 70, Obstacle probability: 0.20
+[EPISODE 400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 39.16s
+Started test 1200: Number of agents: 5, World size: 40, Obstacle probability: 0.10
+[EPISODE 1200] Success: False | Steps: 256 || Collisions: 84.4 | | Reward: -237.07999999999902 | On Goal: 84.4 | Blocking: 0.0 | Time: 30.21s
+Started test 1300: Number of agents: 5, World size: 10, Obstacle probability: 0.17
+[EPISODE 1300] Success: False | Steps: 256 || Collisions: 102.6 | | Reward: -278.62 | On Goal: 137.6 | Blocking: 0.0 | Time: 23.47s
+Started test 1400: Number of agents: 5, World size: 60, Obstacle probability: 0.13
+[EPISODE 1400] Success: False | Steps: 256 || Collisions: 103.6 | | Reward: -269.55999999999875 | On Goal: 83.6 | Blocking: 0.0 | Time: 35.45s
+Started test 500: Number of agents: 5, World size: 60, Obstacle probability: 0.11
+[EPISODE 500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 35.32s
+Started test 1500: Number of agents: 5, World size: 30, Obstacle probability: 0.17
+[EPISODE 1500] Success: False | Steps: 256 || Collisions: 106.4 | | Reward: -274.79999999999916 | On Goal: 86.0 | Blocking: 0.0 | Time: 30.93s
+Started test 1600: Number of agents: 5, World size: 30, Obstacle probability: 0.20
+[EPISODE 1600] Success: False | Steps: 256 || Collisions: 150.0 | | Reward: -351.2 | On Goal: 97.4 | Blocking: 0.0 | Time: 29.23s
+Started test 1700: Number of agents: 5, World size: 60, Obstacle probability: 0.19
+[EPISODE 1700] Success: False | Steps: 256 || Collisions: 98.6 | | Reward: -253.85999999999976 | On Goal: 47.4 | Blocking: 0.0 | Time: 33.56s
+Started test 600: Number of agents: 5, World size: 30, Obstacle probability: 0.18
+[EPISODE 600] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.14 | On Goal: 0.0 | Blocking: 0.0 | Time: 25.65s
+Started test 1800: Number of agents: 5, World size: 20, Obstacle probability: 0.15
+[EPISODE 1800] Success: False | Steps: 256 || Collisions: 90.0 | | Reward: -255.80000000000004 | On Goal: 130.6 | Blocking: 0.0 | Time: 25.95s
+Started test 1900: Number of agents: 5, World size: 50, Obstacle probability: 0.14
+[EPISODE 1900] Success: False | Steps: 256 || Collisions: 192.6 | | Reward: -412.73999999999995 | On Goal: 42.8 | Blocking: 0.0 | Time: 30.72s
+Started test 2000: Number of agents: 5, World size: 50, Obstacle probability: 0.19
+[EPISODE 2000] Success: False | Steps: 256 || Collisions: 149.2 | | Reward: -346.83999999999986 | On Goal: 82.4 | Blocking: 0.0 | Time: 33.33s
+Started test 700: Number of agents: 5, World size: 30, Obstacle probability: 0.26
+[EPISODE 700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 2.6 | Blocking: 0.0 | Time: 28.90s
+Started test 2100: Number of agents: 5, World size: 70, Obstacle probability: 0.12
+[EPISODE 2100] Success: False | Steps: 256 || Collisions: 119.4 | | Reward: -298.90000000000003 | On Goal: 96.0 | Blocking: 0.0 | Time: 34.35s
+Started test 2200: Number of agents: 5, World size: 30, Obstacle probability: 0.24
+[EPISODE 2200] Success: False | Steps: 256 || Collisions: 202.4 | | Reward: -429.12000000000006 | On Goal: 36.8 | Blocking: 0.0 | Time: 28.61s
+Started test 2300: Number of agents: 5, World size: 10, Obstacle probability: 0.11
+[EPISODE 2300] Success: False | Steps: 256 || Collisions: 50.8 | | Reward: -192.83999999999912 | On Goal: 149.0 | Blocking: 0.0 | Time: 23.56s
+Started test 800: Number of agents: 5, World size: 10, Obstacle probability: 0.22
+[EPISODE 800] Success: False | Steps: 256 || Collisions: 1.4 | | Reward: -79.17999999999998 | On Goal: 2.4 | Blocking: 0.0 | Time: 27.39s
+Started test 2400: Number of agents: 5, World size: 20, Obstacle probability: 0.28
+[EPISODE 2400] Success: False | Steps: 256 || Collisions: 199.6 | | Reward: -425.32 | On Goal: 46.2 | Blocking: 0.0 | Time: 29.21s
+Started test 2500: Number of agents: 5, World size: 40, Obstacle probability: 0.17
+[EPISODE 2500] Success: False | Steps: 256 || Collisions: 98.2 | | Reward: -252.8199999999998 | On Goal: 45.6 | Blocking: 0.0 | Time: 31.26s
+Started test 2600: Number of agents: 5, World size: 50, Obstacle probability: 0.21
+[EPISODE 2600] Success: False | Steps: 256 || Collisions: 140.6 | | Reward: -333.3 | On Goal: 87.8 | Blocking: 0.0 | Time: 30.78s
+Started test 2700: Number of agents: 5, World size: 50, Obstacle probability: 0.11
+[EPISODE 2700] Success: False | Steps: 256 || Collisions: 41.2 | | Reward: -183.12 | On Goal: 182.2 | Blocking: 0.0 | Time: 28.92s
+Started test 900: Number of agents: 5, World size: 10, Obstacle probability: 0.20
+[EPISODE 900] Success: False | Steps: 256 || Collisions: 1.2 | | Reward: -78.96 | On Goal: 3.2 | Blocking: 0.0 | Time: 24.93s
+Started test 2800: Number of agents: 5, World size: 20, Obstacle probability: 0.21
+[EPISODE 2800] Success: False | Steps: 256 || Collisions: 100.8 | | Reward: -275.8 | On Goal: 138.8 | Blocking: 0.0 | Time: 25.91s
+Started test 2900: Number of agents: 5, World size: 60, Obstacle probability: 0.15
+[EPISODE 2900] Success: False | Steps: 256 || Collisions: 56.2 | | Reward: -203.22000000000008 | On Goal: 155.2 | Blocking: 0.0 | Time: 30.38s
+Started test 3000: Number of agents: 5, World size: 20, Obstacle probability: 0.28
+[EPISODE 3000] Success: False | Steps: 256 || Collisions: 143.2 | | Reward: -328.5599999999986 | On Goal: 41.8 | Blocking: 0.0 | Time: 28.49s
+Started test 1000: Number of agents: 5, World size: 70, Obstacle probability: 0.16
+[EPISODE 1000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.88 | On Goal: 0.0 | Blocking: 0.0 | Time: 34.10s
+Started test 3100: Number of agents: 5, World size: 70, Obstacle probability: 0.17
+[EPISODE 3100] Success: False | Steps: 256 || Collisions: 146.8 | | Reward: -342.9200000000001 | On Goal: 83.2 | Blocking: 0.0 | Time: 34.46s
+Started test 3200: Number of agents: 5, World size: 30, Obstacle probability: 0.18
+[EPISODE 3200] Success: False | Steps: 256 || Collisions: 46.8 | | Reward: -193.8 | On Goal: 188.0 | Blocking: 0.0 | Time: 28.70s
+Started test 3300: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 3300] Success: False | Steps: 256 || Collisions: 123.0 | | Reward: -293.4999999999991 | On Goal: 38.2 | Blocking: 0.0 | Time: 34.16s
+Started test 1100: Number of agents: 5, World size: 50, Obstacle probability: 0.10
+[EPISODE 1100] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.22 | On Goal: 0.0 | Blocking: 0.0 | Time: 31.91s
+Started test 3400: Number of agents: 5, World size: 20, Obstacle probability: 0.13
+[EPISODE 3400] Success: False | Steps: 256 || Collisions: 67.0 | | Reward: -219.25999999999945 | On Goal: 143.4 | Blocking: 0.0 | Time: 25.30s
+Started test 3500: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 3500] Success: False | Steps: 256 || Collisions: 84.4 | | Reward: -247.43999999999997 | On Goal: 136.4 | Blocking: 0.0 | Time: 29.61s
+Started test 3600: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 3600] Success: False | Steps: 256 || Collisions: 110.8 | | Reward: -284.23999999999984 | On Goal: 95.8 | Blocking: 0.0 | Time: 29.68s
+Started test 1200: Number of agents: 5, World size: 60, Obstacle probability: 0.28
+[EPISODE 1200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 32.75s
+Started test 3700: Number of agents: 5, World size: 10, Obstacle probability: 0.19
+[EPISODE 3700] Success: True | Steps: 14 || Collisions: 0.2 | | Reward: 2.62 | On Goal: 6.0 | Blocking: 0.0 | Time: 1.27s
+Started test 3800: Number of agents: 5, World size: 60, Obstacle probability: 0.17
+[EPISODE 3800] Success: False | Steps: 256 || Collisions: 14.0 | | Reward: -134.99999999999983 | On Goal: 172.8 | Blocking: 0.0 | Time: 31.83s
+Started test 3900: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 3900] Success: False | Steps: 256 || Collisions: 171.8 | | Reward: -368.8599999999989 | On Goal: 0.0 | Blocking: 0.0 | Time: 32.41s
+Started test 1300: Number of agents: 5, World size: 70, Obstacle probability: 0.15
+[EPISODE 1300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.84 | On Goal: 0.0 | Blocking: 0.0 | Time: 34.76s
+Started test 4000: Number of agents: 5, World size: 30, Obstacle probability: 0.14
+[EPISODE 4000] Success: True | Steps: 32 || Collisions: 1.8 | | Reward: -10.719999999999999 | On Goal: 11.6 | Blocking: 0.0 | Time: 3.26s
+Started test 4100: Number of agents: 5, World size: 30, Obstacle probability: 0.18
+[EPISODE 4100] Success: False | Steps: 256 || Collisions: 50.2 | | Reward: -198.26000000000005 | On Goal: 181.4 | Blocking: 0.0 | Time: 27.70s
+Started test 4200: Number of agents: 5, World size: 40, Obstacle probability: 0.22
+[EPISODE 4200] Success: True | Steps: 44 || Collisions: 0.2 | | Reward: 3.8400000000000034 | On Goal: 16.4 | Blocking: 0.0 | Time: 4.84s
+Started test 1400: Number of agents: 5, World size: 10, Obstacle probability: 0.27
+[EPISODE 1400] Success: False | Steps: 256 || Collisions: 2.6 | | Reward: -83.6599999999999 | On Goal: 10.4 | Blocking: 0.0 | Time: 25.07s
+Started test 4300: Number of agents: 5, World size: 20, Obstacle probability: 0.24
+[EPISODE 4300] Success: False | Steps: 256 || Collisions: 49.0 | | Reward: -190.13999999999916 | On Goal: 150.8 | Blocking: 0.0 | Time: 25.80s
+Started test 4400: Number of agents: 5, World size: 60, Obstacle probability: 0.28
+[EPISODE 4400] Success: False | Steps: 256 || Collisions: 134.6 | | Reward: -324.7799999999995 | On Goal: 96.2 | Blocking: 0.0 | Time: 32.39s
+Started test 4500: Number of agents: 5, World size: 70, Obstacle probability: 0.19
+[EPISODE 4500] Success: False | Steps: 256 || Collisions: 23.8 | | Reward: -138.66000000000008 | On Goal: 107.6 | Blocking: 0.0 | Time: 33.62s
+Started test 1500: Number of agents: 5, World size: 10, Obstacle probability: 0.13
+[EPISODE 1500] Success: False | Steps: 256 || Collisions: 2.4 | | Reward: -81.35999999999997 | On Goal: 2.0 | Blocking: 0.0 | Time: 24.07s
+Started test 4600: Number of agents: 5, World size: 20, Obstacle probability: 0.27
+[EPISODE 4600] Success: False | Steps: 256 || Collisions: 199.6 | | Reward: -426.12 | On Goal: 50.2 | Blocking: 0.0 | Time: 29.10s
+Started test 4700: Number of agents: 5, World size: 70, Obstacle probability: 0.25
+[EPISODE 4700] Success: False | Steps: 256 || Collisions: 221.2 | | Reward: -452.8399999999998 | On Goal: 0.0 | Blocking: 0.0 | Time: 34.62s
+Started test 4800: Number of agents: 5, World size: 70, Obstacle probability: 0.26
+[EPISODE 4800] Success: False | Steps: 256 || Collisions: 223.8 | | Reward: -457.25999999999965 | On Goal: 0.0 | Blocking: 0.0 | Time: 35.72s
+Started test 1600: Number of agents: 5, World size: 20, Obstacle probability: 0.22
+[EPISODE 1600] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.14 | On Goal: 0.6 | Blocking: 0.0 | Time: 28.74s
+Started test 4900: Number of agents: 5, World size: 70, Obstacle probability: 0.18
+[EPISODE 4900] Success: False | Steps: 256 || Collisions: 38.8 | | Reward: -174.83999999999997 | On Goal: 161.2 | Blocking: 0.0 | Time: 32.84s
+Started test 5000: Number of agents: 5, World size: 10, Obstacle probability: 0.16
+[EPISODE 5000] Success: True | Steps: 11 || Collisions: 0.2 | | Reward: 16.1 | On Goal: 4.6 | Blocking: 0.0 | Time: 1.02s
+Started test 5100: Number of agents: 5, World size: 60, Obstacle probability: 0.14
+[EPISODE 5100] Success: True | Steps: 78 || Collisions: 2.2 | | Reward: -27.080000000000034 | On Goal: 21.0 | Blocking: 0.0 | Time: 9.81s
+Started test 1700: Number of agents: 5, World size: 20, Obstacle probability: 0.20
+[EPISODE 1700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 28.05s
+Started test 5200: Number of agents: 5, World size: 20, Obstacle probability: 0.21
+[EPISODE 5200] Success: False | Steps: 256 || Collisions: 124.2 | | Reward: -307.0999999999993 | On Goal: 96.2 | Blocking: 0.0 | Time: 28.19s
+Started test 5300: Number of agents: 5, World size: 50, Obstacle probability: 0.18
+[EPISODE 5300] Success: False | Steps: 256 || Collisions: 44.2 | | Reward: -187.33999999999997 | On Goal: 177.8 | Blocking: 0.0 | Time: 32.54s
+Started test 5400: Number of agents: 5, World size: 50, Obstacle probability: 0.21
+[EPISODE 5400] Success: True | Steps: 57 || Collisions: 0.4 | | Reward: -6.579999999999993 | On Goal: 26.8 | Blocking: 0.0 | Time: 7.27s
+Started test 1800: Number of agents: 5, World size: 60, Obstacle probability: 0.19
+[EPISODE 1800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 32.74s
+Started test 5500: Number of agents: 5, World size: 50, Obstacle probability: 0.11
+[EPISODE 5500] Success: False | Steps: 256 || Collisions: 81.4 | | Reward: -239.09999999999962 | On Goal: 120.2 | Blocking: 0.0 | Time: 29.42s
+Started test 5600: Number of agents: 5, World size: 30, Obstacle probability: 0.30
+[EPISODE 5600] Success: False | Steps: 256 || Collisions: 99.4 | | Reward: -275.06 | On Goal: 147.0 | Blocking: 0.0 | Time: 31.81s
+Started test 5700: Number of agents: 5, World size: 50, Obstacle probability: 0.23
+[EPISODE 5700] Success: False | Steps: 256 || Collisions: 95.2 | | Reward: -265.00000000000006 | On Goal: 132.4 | Blocking: 0.0 | Time: 31.75s
+Started test 1900: Number of agents: 5, World size: 30, Obstacle probability: 0.21
+[EPISODE 1900] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.17999999999999 | On Goal: 0.8 | Blocking: 0.0 | Time: 30.12s
+Started test 5800: Number of agents: 5, World size: 20, Obstacle probability: 0.21
+[EPISODE 5800] Success: False | Steps: 256 || Collisions: 49.8 | | Reward: -200.54000000000002 | On Goal: 196.2 | Blocking: 0.0 | Time: 27.91s
+Started test 5900: Number of agents: 5, World size: 40, Obstacle probability: 0.20
+[EPISODE 5900] Success: False | Steps: 256 || Collisions: 46.2 | | Reward: -192.42 | On Goal: 186.2 | Blocking: 0.0 | Time: 28.21s
+Started test 6000: Number of agents: 5, World size: 30, Obstacle probability: 0.22
+[EPISODE 6000] Success: False | Steps: 256 || Collisions: 41.2 | | Reward: -182.75999999999976 | On Goal: 180.4 | Blocking: 0.0 | Time: 27.79s
+Started test 2000: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 2000] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.14 | On Goal: 0.0 | Blocking: 0.0 | Time: 32.99s
+Started test 6100: Number of agents: 5, World size: 30, Obstacle probability: 0.18
+[EPISODE 6100] Success: False | Steps: 256 || Collisions: 47.4 | | Reward: -196.34 | On Goal: 195.6 | Blocking: 0.0 | Time: 27.11s
+Started test 6200: Number of agents: 5, World size: 20, Obstacle probability: 0.20
+[EPISODE 6200] Success: False | Steps: 256 || Collisions: 46.2 | | Reward: -194.18 | On Goal: 195.0 | Blocking: 0.0 | Time: 29.28s
+Started test 6300: Number of agents: 5, World size: 40, Obstacle probability: 0.21
+[EPISODE 6300] Success: False | Steps: 256 || Collisions: 49.6 | | Reward: -198.2 | On Goal: 186.2 | Blocking: 0.0 | Time: 30.49s
+Started test 6400: Number of agents: 5, World size: 70, Obstacle probability: 0.27
+[EPISODE 6400] Success: False | Steps: 256 || Collisions: 132.6 | | Reward: -311.5399999999987 | On Goal: 46.8 | Blocking: 0.0 | Time: 33.85s
+Started test 2100: Number of agents: 5, World size: 10, Obstacle probability: 0.27
+[EPISODE 2100] Success: False | Steps: 256 || Collisions: 1.8 | | Reward: -80.17999999999998 | On Goal: 8.2 | Blocking: 0.0 | Time: 24.85s
+Started test 6500: Number of agents: 5, World size: 70, Obstacle probability: 0.23
+[EPISODE 6500] Success: False | Steps: 256 || Collisions: 48.0 | | Reward: -185.6799999999992 | On Goal: 137.0 | Blocking: 0.0 | Time: 35.43s
+Started test 6600: Number of agents: 5, World size: 50, Obstacle probability: 0.18
+[EPISODE 6600] Success: False | Steps: 256 || Collisions: 133.6 | | Reward: -321.16 | On Goal: 86.6 | Blocking: 0.0 | Time: 32.78s
+Started test 6700: Number of agents: 5, World size: 50, Obstacle probability: 0.12
+[EPISODE 6700] Success: True | Steps: 45 || Collisions: 0.0 | | Reward: -4.279999999999996 | On Goal: 16.2 | Blocking: 0.0 | Time: 5.34s
+Started test 2200: Number of agents: 5, World size: 30, Obstacle probability: 0.30
+[EPISODE 2200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.32 | On Goal: 0.0 | Blocking: 0.0 | Time: 30.72s
+Started test 6800: Number of agents: 5, World size: 60, Obstacle probability: 0.23
+[EPISODE 6800] Success: False | Steps: 256 || Collisions: 87.6 | | Reward: -253.7999999999998 | On Goal: 141.0 | Blocking: 0.0 | Time: 30.83s
+Started test 6900: Number of agents: 5, World size: 40, Obstacle probability: 0.21
+[EPISODE 6900] Success: False | Steps: 256 || Collisions: 45.0 | | Reward: -182.0999999999998 | On Goal: 144.6 | Blocking: 0.0 | Time: 28.53s
+Started test 7000: Number of agents: 5, World size: 60, Obstacle probability: 0.22
+[EPISODE 7000] Success: False | Steps: 256 || Collisions: 29.8 | | Reward: -155.2999999999999 | On Goal: 139.8 | Blocking: 0.0 | Time: 32.25s
+Started test 2300: Number of agents: 5, World size: 50, Obstacle probability: 0.17
+[EPISODE 2300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.35999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 31.36s
+Started test 7100: Number of agents: 5, World size: 40, Obstacle probability: 0.15
+[EPISODE 7100] Success: True | Steps: 47 || Collisions: 0.0 | | Reward: -1.6599999999999908 | On Goal: 20.6 | Blocking: 0.0 | Time: 5.54s
+Started test 7200: Number of agents: 5, World size: 70, Obstacle probability: 0.23
+[EPISODE 7200] Success: False | Steps: 256 || Collisions: 79.6 | | Reward: -238.23999999999955 | On Goal: 131.2 | Blocking: 0.0 | Time: 34.22s
+Started test 7300: Number of agents: 5, World size: 20, Obstacle probability: 0.25
+[EPISODE 7300] Success: False | Steps: 256 || Collisions: 110.8 | | Reward: -284.359999999999 | On Goal: 96.4 | Blocking: 0.0 | Time: 24.48s
+Started test 2400: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 2400] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.85999999999997 | On Goal: 0.0 | Blocking: 0.0 | Time: 35.17s
+Started test 7400: Number of agents: 5, World size: 70, Obstacle probability: 0.14
+[EPISODE 7400] Success: False | Steps: 256 || Collisions: 48.8 | | Reward: -195.68 | On Goal: 180.4 | Blocking: 0.0 | Time: 31.33s
+Started test 7500: Number of agents: 5, World size: 70, Obstacle probability: 0.16
+[EPISODE 7500] Success: False | Steps: 256 || Collisions: 50.8 | | Reward: -189.59999999999985 | On Goal: 133.0 | Blocking: 0.0 | Time: 32.72s
+Started test 7600: Number of agents: 5, World size: 20, Obstacle probability: 0.17
+[EPISODE 7600] Success: False | Steps: 256 || Collisions: 0.6 | | Reward: -116.50000000000007 | On Goal: 194.2 | Blocking: 0.0 | Time: 28.20s
+Started test 7700: Number of agents: 5, World size: 70, Obstacle probability: 0.25
+[EPISODE 7700] Success: False | Steps: 256 || Collisions: 97.4 | | Reward: -251.33999999999986 | On Goal: 45.0 | Blocking: 0.0 | Time: 34.64s
+Started test 2500: Number of agents: 5, World size: 40, Obstacle probability: 0.27
+[EPISODE 2500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.47999999999998 | On Goal: 0.0 | Blocking: 0.0 | Time: 32.40s
+Started test 7800: Number of agents: 5, World size: 10, Obstacle probability: 0.19
+[EPISODE 7800] Success: False | Steps: 256 || Collisions: 101.2 | | Reward: -278.96 | On Goal: 151.2 | Blocking: 0.0 | Time: 25.45s
+Started test 7900: Number of agents: 5, World size: 30, Obstacle probability: 0.25
+[EPISODE 7900] Success: False | Steps: 256 || Collisions: 45.8 | | Reward: -193.34 | On Goal: 194.2 | Blocking: 0.0 | Time: 31.04s
+Started test 8000: Number of agents: 5, World size: 10, Obstacle probability: 0.18
+[EPISODE 8000] Success: True | Steps: 15 || Collisions: 0.0 | | Reward: 10.459999999999999 | On Goal: 8.0 | Blocking: 0.0 | Time: 1.30s
+Started test 2600: Number of agents: 5, World size: 60, Obstacle probability: 0.16
+[EPISODE 2600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.19999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 33.27s
+Started test 8100: Number of agents: 5, World size: 10, Obstacle probability: 0.16
+[EPISODE 8100] Success: True | Steps: 14 || Collisions: 0.0 | | Reward: 15.34 | On Goal: 5.6 | Blocking: 0.0 | Time: 1.24s
+Started test 8200: Number of agents: 5, World size: 70, Obstacle probability: 0.10
+[EPISODE 8200] Success: True | Steps: 92 || Collisions: 0.0 | | Reward: -28.240000000000048 | On Goal: 45.0 | Blocking: 0.0 | Time: 11.76s
+Started test 8300: Number of agents: 5, World size: 20, Obstacle probability: 0.21
+[EPISODE 8300] Success: False | Steps: 256 || Collisions: 25.6 | | Reward: -158.03999999999974 | On Goal: 189.4 | Blocking: 0.0 | Time: 25.76s
+Started test 2700: Number of agents: 5, World size: 30, Obstacle probability: 0.12
+[EPISODE 2700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.08 | On Goal: 0.0 | Blocking: 0.0 | Time: 30.21s
+Started test 8400: Number of agents: 5, World size: 60, Obstacle probability: 0.11
+[EPISODE 8400] Success: True | Steps: 82 || Collisions: 0.4 | | Reward: -28.06000000000003 | On Goal: 35.2 | Blocking: 0.0 | Time: 10.23s
+Started test 8500: Number of agents: 5, World size: 50, Obstacle probability: 0.11
+[EPISODE 8500] Success: True | Steps: 45 || Collisions: 0.0 | | Reward: -3.4800000000000013 | On Goal: 12.2 | Blocking: 0.0 | Time: 5.21s
+Started test 8600: Number of agents: 5, World size: 40, Obstacle probability: 0.24
+[EPISODE 8600] Success: False | Steps: 256 || Collisions: 150.2 | | Reward: -350.3 | On Goal: 91.2 | Blocking: 0.0 | Time: 28.08s
+Started test 2800: Number of agents: 5, World size: 20, Obstacle probability: 0.24
+[EPISODE 2800] Success: False | Steps: 256 || Collisions: 3.0 | | Reward: -82.97999999999995 | On Goal: 1.2 | Blocking: 0.0 | Time: 29.96s
+Started test 8700: Number of agents: 5, World size: 10, Obstacle probability: 0.11
+[EPISODE 8700] Success: True | Steps: 11 || Collisions: 0.0 | | Reward: 4.220000000000001 | On Goal: 4.2 | Blocking: 0.0 | Time: 0.98s
+Started test 8800: Number of agents: 5, World size: 60, Obstacle probability: 0.19
+[EPISODE 8800] Success: False | Steps: 256 || Collisions: 48.4 | | Reward: -193.2 | On Goal: 171.4 | Blocking: 0.0 | Time: 32.27s
+Started test 8900: Number of agents: 5, World size: 30, Obstacle probability: 0.20
+[EPISODE 8900] Success: True | Steps: 48 || Collisions: 0.0 | | Reward: -14.219999999999994 | On Goal: 20.4 | Blocking: 0.0 | Time: 5.71s
+Started test 2900: Number of agents: 5, World size: 20, Obstacle probability: 0.29
+[EPISODE 2900] Success: False | Steps: 256 || Collisions: 1.4 | | Reward: -80.09999999999995 | On Goal: 0.0 | Blocking: 0.0 | Time: 28.47s
+Started test 9000: Number of agents: 5, World size: 40, Obstacle probability: 0.24
+[EPISODE 9000] Success: False | Steps: 256 || Collisions: 63.8 | | Reward: -202.82000000000033 | On Goal: 88.2 | Blocking: 0.0 | Time: 32.26s
+Started test 9100: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 9100] Success: False | Steps: 256 || Collisions: 73.0 | | Reward: -210.13999999999987 | On Goal: 46.4 | Blocking: 0.0 | Time: 35.86s
+Started test 9200: Number of agents: 5, World size: 30, Obstacle probability: 0.22
+[EPISODE 9200] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -113.62000000000015 | On Goal: 183.2 | Blocking: 0.0 | Time: 29.75s
+Started test 3000: Number of agents: 5, World size: 60, Obstacle probability: 0.12
+[EPISODE 3000] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -77.63999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 33.00s
+Started test 9300: Number of agents: 5, World size: 20, Obstacle probability: 0.27
+[EPISODE 9300] Success: False | Steps: 256 || Collisions: 143.4 | | Reward: -330.2599999999986 | On Goal: 48.6 | Blocking: 0.0 | Time: 32.27s
+Started test 9400: Number of agents: 5, World size: 70, Obstacle probability: 0.12
+[EPISODE 9400] Success: False | Steps: 256 || Collisions: 1.6 | | Reward: -108.88000000000014 | On Goal: 147.6 | Blocking: 0.0 | Time: 34.40s
+Started test 9500: Number of agents: 5, World size: 30, Obstacle probability: 0.28
+[EPISODE 9500] Success: False | Steps: 256 || Collisions: 49.0 | | Reward: -198.5 | On Goal: 192.8 | Blocking: 0.0 | Time: 29.91s
+Started test 3100: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 3100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.84 | On Goal: 0.6 | Blocking: 0.0 | Time: 32.92s
+Started test 9600: Number of agents: 5, World size: 70, Obstacle probability: 0.11
+[EPISODE 9600] Success: True | Steps: 69 || Collisions: 0.0 | | Reward: -18.93999999999999 | On Goal: 33.0 | Blocking: 0.0 | Time: 9.30s
+Started test 9700: Number of agents: 5, World size: 60, Obstacle probability: 0.20
+[EPISODE 9700] Success: False | Steps: 256 || Collisions: 95.4 | | Reward: -265.74000000000007 | On Goal: 134.4 | Blocking: 0.0 | Time: 33.49s
+Started test 9800: Number of agents: 5, World size: 60, Obstacle probability: 0.18
+[EPISODE 9800] Success: True | Steps: 73 || Collisions: 0.0 | | Reward: -17.48 | On Goal: 40.2 | Blocking: 0.0 | Time: 9.90s
+Started test 3200: Number of agents: 5, World size: 40, Obstacle probability: 0.17
+[EPISODE 3200] Success: False | Steps: 256 || Collisions: 0.6 | | Reward: -78.61999999999998 | On Goal: 0.2 | Blocking: 0.0 | Time: 31.35s
+Started test 9900: Number of agents: 5, World size: 20, Obstacle probability: 0.26
+[EPISODE 9900] Success: False | Steps: 256 || Collisions: 129.6 | | Reward: -317.5999999999998 | On Goal: 99.2 | Blocking: 0.0 | Time: 28.78s
+Started test 10000: Number of agents: 5, World size: 40, Obstacle probability: 0.26
+[EPISODE 10000] Success: False | Steps: 256 || Collisions: 97.6 | | Reward: -260.5599999999988 | On Goal: 89.6 | Blocking: 0.0 | Time: 31.81s
+Started test 10100: Number of agents: 5, World size: 10, Obstacle probability: 0.24
+[EPISODE 10100] Success: False | Steps: 256 || Collisions: 152.2 | | Reward: -355.26 | On Goal: 99.0 | Blocking: 0.0 | Time: 23.83s
+Started test 3300: Number of agents: 5, World size: 70, Obstacle probability: 0.17
+[EPISODE 3300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.03999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 41.01s
+Started test 10200: Number of agents: 5, World size: 30, Obstacle probability: 0.25
+[EPISODE 10200] Success: False | Steps: 256 || Collisions: 48.2 | | Reward: -196.14 | On Goal: 187.8 | Blocking: 0.0 | Time: 28.42s
+Started test 10300: Number of agents: 5, World size: 60, Obstacle probability: 0.18
+[EPISODE 10300] Success: False | Steps: 256 || Collisions: 32.4 | | Reward: -164.43999999999977 | On Goal: 163.6 | Blocking: 0.0 | Time: 31.33s
+Started test 10400: Number of agents: 5, World size: 60, Obstacle probability: 0.21
+[EPISODE 10400] Success: False | Steps: 256 || Collisions: 84.2 | | Reward: -242.6199999999998 | On Goal: 114.0 | Blocking: 0.0 | Time: 31.72s
+Started test 3400: Number of agents: 5, World size: 40, Obstacle probability: 0.17
+[EPISODE 3400] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.22 | On Goal: 0.0 | Blocking: 0.0 | Time: 30.18s
+Started test 10500: Number of agents: 5, World size: 40, Obstacle probability: 0.23
+[EPISODE 10500] Success: False | Steps: 256 || Collisions: 49.0 | | Reward: -188.21999999999917 | On Goal: 141.2 | Blocking: 0.0 | Time: 29.47s
+Started test 10600: Number of agents: 5, World size: 50, Obstacle probability: 0.18
+[EPISODE 10600] Success: True | Steps: 71 || Collisions: 3.4 | | Reward: -30.45999999999999 | On Goal: 38.2 | Blocking: 0.0 | Time: 8.54s
+Started test 10700: Number of agents: 5, World size: 60, Obstacle probability: 0.22
+[EPISODE 10700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -110.24000000000024 | On Goal: 168.0 | Blocking: 0.0 | Time: 33.92s
+Started test 3500: Number of agents: 5, World size: 50, Obstacle probability: 0.12
+[EPISODE 3500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.88 | On Goal: 0.0 | Blocking: 0.0 | Time: 30.07s
+Started test 10800: Number of agents: 5, World size: 10, Obstacle probability: 0.16
+[EPISODE 10800] Success: True | Steps: 8 || Collisions: 0.0 | | Reward: 5.12 | On Goal: 4.2 | Blocking: 0.0 | Time: 0.73s
+Started test 10900: Number of agents: 5, World size: 40, Obstacle probability: 0.28
+[EPISODE 10900] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -102.94000000000048 | On Goal: 129.6 | Blocking: 0.0 | Time: 29.26s
+Started test 11000: Number of agents: 5, World size: 40, Obstacle probability: 0.12
+[EPISODE 11000] Success: False | Steps: 256 || Collisions: 148.6 | | Reward: -347.18 | On Goal: 89.2 | Blocking: 0.0 | Time: 30.74s
+Started test 3600: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 3600] Success: False | Steps: 256 || Collisions: 2.6 | | Reward: -81.61999999999998 | On Goal: 7.2 | Blocking: 0.0 | Time: 24.18s
+Started test 11100: Number of agents: 5, World size: 60, Obstacle probability: 0.23
+[EPISODE 11100] Success: False | Steps: 256 || Collisions: 144.2 | | Reward: -321.939999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 33.13s
+Started test 11200: Number of agents: 5, World size: 30, Obstacle probability: 0.14
+[EPISODE 11200] Success: True | Steps: 26 || Collisions: 0.0 | | Reward: 2.620000000000002 | On Goal: 10.2 | Blocking: 0.0 | Time: 3.10s
+Started test 11300: Number of agents: 5, World size: 70, Obstacle probability: 0.13
+[EPISODE 11300] Success: True | Steps: 84 || Collisions: 0.0 | | Reward: -11.980000000000018 | On Goal: 37.2 | Blocking: 0.0 | Time: 10.62s
+Started test 3700: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+Started test 11400: Number of agents: 5, World size: 60, Obstacle probability: 0.15
+[EPISODE 3700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.39999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 35.80s
+[EPISODE 11400] Success: False | Steps: 256 || Collisions: 77.4 | | Reward: -234.0599999999995 | On Goal: 129.0 | Blocking: 0.0 | Time: 33.87s
+Started test 11500: Number of agents: 5, World size: 70, Obstacle probability: 0.15
+[EPISODE 11500] Success: False | Steps: 256 || Collisions: 29.2 | | Reward: -156.51999999999984 | On Goal: 151.2 | Blocking: 0.0 | Time: 35.40s
+Started test 11600: Number of agents: 5, World size: 70, Obstacle probability: 0.23
+[EPISODE 11600] Success: False | Steps: 256 || Collisions: 130.8 | | Reward: -317.52000000000004 | On Goal: 92.2 | Blocking: 0.0 | Time: 38.01s
+Started test 3800: Number of agents: 5, World size: 20, Obstacle probability: 0.17
+[EPISODE 3800] Success: False | Steps: 256 || Collisions: 0.6 | | Reward: -78.41999999999997 | On Goal: 0.0 | Blocking: 0.0 | Time: 29.78s
+Started test 11700: Number of agents: 5, World size: 30, Obstacle probability: 0.28
+[EPISODE 11700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -114.32000000000012 | On Goal: 188.4 | Blocking: 0.0 | Time: 31.81s
+Started test 11800: Number of agents: 5, World size: 30, Obstacle probability: 0.24
+[EPISODE 11800] Success: False | Steps: 256 || Collisions: 49.2 | | Reward: -188.99999999999918 | On Goal: 143.4 | Blocking: 0.0 | Time: 33.54s
+Started test 11900: Number of agents: 5, World size: 20, Obstacle probability: 0.17
+[EPISODE 11900] Success: True | Steps: 26 || Collisions: 0.2 | | Reward: 9.960000000000004 | On Goal: 12.8 | Blocking: 0.0 | Time: 3.09s
+Started test 12000: Number of agents: 5, World size: 20, Obstacle probability: 0.13
+[EPISODE 12000] Success: True | Steps: 23 || Collisions: 0.0 | | Reward: 12.400000000000002 | On Goal: 6.8 | Blocking: 0.0 | Time: 2.61s
+Started test 3900: Number of agents: 5, World size: 20, Obstacle probability: 0.29
+[EPISODE 3900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.71999999999997 | On Goal: 0.0 | Blocking: 0.0 | Time: 32.80s
+Started test 12100: Number of agents: 5, World size: 30, Obstacle probability: 0.15
+[EPISODE 12100] Success: False | Steps: 256 || Collisions: 96.4 | | Reward: -268.84000000000003 | On Goal: 141.4 | Blocking: 0.0 | Time: 30.01s
+Started test 12200: Number of agents: 5, World size: 30, Obstacle probability: 0.17
+[EPISODE 12200] Success: True | Steps: 23 || Collisions: 0.0 | | Reward: -0.659999999999998 | On Goal: 10.6 | Blocking: 0.0 | Time: 2.85s
+Started test 12300: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 12300] Success: False | Steps: 256 || Collisions: 47.0 | | Reward: -183.09999999999926 | On Goal: 132.6 | Blocking: 0.0 | Time: 32.59s
+Started test 4000: Number of agents: 5, World size: 20, Obstacle probability: 0.17
+[EPISODE 4000] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.22 | On Goal: 0.8 | Blocking: 0.0 | Time: 28.38s
+Started test 12400: Number of agents: 5, World size: 50, Obstacle probability: 0.22
+[EPISODE 12400] Success: False | Steps: 256 || Collisions: 49.4 | | Reward: -197.18 | On Goal: 182.8 | Blocking: 0.0 | Time: 33.23s
+Started test 12500: Number of agents: 5, World size: 30, Obstacle probability: 0.26
+[EPISODE 12500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -105.16000000000047 | On Goal: 142.4 | Blocking: 0.0 | Time: 29.42s
+Started test 12600: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 12600] Success: False | Steps: 256 || Collisions: 85.6 | | Reward: -240.23999999999918 | On Goal: 90.0 | Blocking: 0.0 | Time: 43.04s
+Started test 4100: Number of agents: 5, World size: 30, Obstacle probability: 0.21
+[EPISODE 4100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.84 | On Goal: 1.2 | Blocking: 0.0 | Time: 38.91s
+Started test 12700: Number of agents: 5, World size: 10, Obstacle probability: 0.25
+[EPISODE 12700] Success: True | Steps: 13 || Collisions: 1.4 | | Reward: 1.040000000000002 | On Goal: 5.2 | Blocking: 0.0 | Time: 1.49s
+Started test 12800: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 12800] Success: False | Steps: 256 || Collisions: 47.2 | | Reward: -182.75999999999917 | On Goal: 84.0 | Blocking: 0.0 | Time: 45.36s
+Started test 12900: Number of agents: 5, World size: 10, Obstacle probability: 0.21
+[EPISODE 12900] Success: False | Steps: 256 || Collisions: 100.0 | | Reward: -276.36 | On Goal: 148.4 | Blocking: 0.0 | Time: 27.75s
+Started test 4200: Number of agents: 5, World size: 50, Obstacle probability: 0.24
+[EPISODE 4200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 44.41s
+Started test 13000: Number of agents: 5, World size: 60, Obstacle probability: 0.15
+[EPISODE 13000] Success: False | Steps: 256 || Collisions: 93.0 | | Reward: -251.97999999999882 | On Goal: 85.8 | Blocking: 0.0 | Time: 43.03s
+Started test 13100: Number of agents: 5, World size: 60, Obstacle probability: 0.30
+[EPISODE 13100] Success: False | Steps: 256 || Collisions: 113.0 | | Reward: -277.97999999999917 | On Goal: 45.6 | Blocking: 0.0 | Time: 41.69s
+Started test 13200: Number of agents: 5, World size: 10, Obstacle probability: 0.28
+[EPISODE 13200] Success: True | Steps: 13 || Collisions: 0.6 | | Reward: 2.520000000000001 | On Goal: 4.6 | Blocking: 0.0 | Time: 1.58s
+Started test 4300: Number of agents: 5, World size: 70, Obstacle probability: 0.19
+[EPISODE 4300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.16 | On Goal: 0.0 | Blocking: 0.0 | Time: 40.74s
+Started test 13300: Number of agents: 5, World size: 10, Obstacle probability: 0.14
+[EPISODE 13300] Success: True | Steps: 8 || Collisions: 0.2 | | Reward: 0.9599999999999997 | On Goal: 2.8 | Blocking: 0.0 | Time: 0.97s
+Started test 13400: Number of agents: 5, World size: 10, Obstacle probability: 0.16
+[EPISODE 13400] Success: False | Steps: 256 || Collisions: 101.6 | | Reward: -279.71999999999997 | On Goal: 151.6 | Blocking: 0.0 | Time: 32.27s
+Started test 13500: Number of agents: 5, World size: 40, Obstacle probability: 0.28
+[EPISODE 13500] Success: False | Steps: 256 || Collisions: 93.2 | | Reward: -254.79999999999882 | On Goal: 98.2 | Blocking: 0.0 | Time: 39.75s
+Started test 4400: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 4400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.55999999999997 | On Goal: 0.0 | Blocking: 0.0 | Time: 46.07s
+Started test 13600: Number of agents: 5, World size: 70, Obstacle probability: 0.11
+[EPISODE 13600] Success: True | Steps: 50 || Collisions: 0.2 | | Reward: -15.119999999999985 | On Goal: 20.2 | Blocking: 0.0 | Time: 9.01s
+Started test 13700: Number of agents: 5, World size: 70, Obstacle probability: 0.22
+[EPISODE 13700] Success: False | Steps: 256 || Collisions: 49.0 | | Reward: -195.46000000000004 | On Goal: 177.6 | Blocking: 0.0 | Time: 46.29s
+Started test 13800: Number of agents: 5, World size: 50, Obstacle probability: 0.25
+[EPISODE 13800] Success: False | Steps: 256 || Collisions: 145.4 | | Reward: -333.5399999999986 | On Goal: 48.0 | Blocking: 0.0 | Time: 33.98s
+Started test 4500: Number of agents: 5, World size: 40, Obstacle probability: 0.17
+[EPISODE 4500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.95999999999995 | On Goal: 0.0 | Blocking: 0.0 | Time: 31.74s
+Started test 13900: Number of agents: 5, World size: 70, Obstacle probability: 0.12
+[EPISODE 13900] Success: False | Steps: 256 || Collisions: 131.8 | | Reward: -319.5 | On Goal: 93.6 | Blocking: 0.0 | Time: 34.08s
+Started test 14000: Number of agents: 5, World size: 50, Obstacle probability: 0.28
+[EPISODE 14000] Success: False | Steps: 256 || Collisions: 109.0 | | Reward: -271.49999999999943 | On Goal: 47.2 | Blocking: 0.0 | Time: 32.25s
+Started test 14100: Number of agents: 5, World size: 30, Obstacle probability: 0.23
+[EPISODE 14100] Success: False | Steps: 256 || Collisions: 0.6 | | Reward: -115.82000000000009 | On Goal: 190.8 | Blocking: 0.0 | Time: 28.32s
+Started test 4600: Number of agents: 5, World size: 30, Obstacle probability: 0.21
+[EPISODE 4600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.84 | On Goal: 0.0 | Blocking: 0.0 | Time: 30.04s
+Started test 14200: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 14200] Success: False | Steps: 256 || Collisions: 49.4 | | Reward: -193.26 | On Goal: 163.2 | Blocking: 0.0 | Time: 33.47s
+Started test 14300: Number of agents: 5, World size: 40, Obstacle probability: 0.11
+[EPISODE 14300] Success: True | Steps: 35 || Collisions: 0.0 | | Reward: -9.119999999999996 | On Goal: 14.4 | Blocking: 0.0 | Time: 4.35s
+Started test 14400: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 14400] Success: False | Steps: 256 || Collisions: 50.2 | | Reward: -201.78 | On Goal: 199.0 | Blocking: 0.0 | Time: 21.97s
+Started test 4700: Number of agents: 5, World size: 20, Obstacle probability: 0.12
+[EPISODE 4700] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.17999999999999 | On Goal: 3.8 | Blocking: 0.0 | Time: 26.93s
+Started test 14500: Number of agents: 5, World size: 50, Obstacle probability: 0.24
+[EPISODE 14500] Success: True | Steps: 58 || Collisions: 0.0 | | Reward: -14.319999999999988 | On Goal: 26.4 | Blocking: 0.0 | Time: 7.02s
+Started test 14600: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 14600] Success: True | Steps: 49 || Collisions: 0.0 | | Reward: -15.47999999999999 | On Goal: 25.2 | Blocking: 0.0 | Time: 6.00s
+Started test 14700: Number of agents: 5, World size: 30, Obstacle probability: 0.13
+[EPISODE 14700] Success: True | Steps: 22 || Collisions: 0.0 | | Reward: 12.460000000000004 | On Goal: 8.0 | Blocking: 0.0 | Time: 2.76s
+Started test 4800: Number of agents: 5, World size: 70, Obstacle probability: 0.12
+[EPISODE 4800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.19999999999997 | On Goal: 0.0 | Blocking: 0.0 | Time: 34.69s
+Started test 14800: Number of agents: 5, World size: 70, Obstacle probability: 0.20
+[EPISODE 14800] Success: False | Steps: 256 || Collisions: 36.8 | | Reward: -174.28 | On Goal: 175.4 | Blocking: 0.0 | Time: 33.76s
+Started test 14900: Number of agents: 5, World size: 60, Obstacle probability: 0.11
+[EPISODE 14900] Success: True | Steps: 45 || Collisions: 0.0 | | Reward: -4.599999999999992 | On Goal: 17.8 | Blocking: 0.0 | Time: 6.03s
+Started test 15000: Number of agents: 5, World size: 50, Obstacle probability: 0.30
+[EPISODE 15000] Success: False | Steps: 256 || Collisions: 97.2 | | Reward: -260.59999999999883 | On Goal: 93.2 | Blocking: 0.0 | Time: 30.36s
+Started test 15100: Number of agents: 5, World size: 50, Obstacle probability: 0.21
+[EPISODE 15100] Success: False | Steps: 256 || Collisions: 97.6 | | Reward: -270.23999999999995 | On Goal: 138.2 | Blocking: 0.0 | Time: 30.24s
+Started test 4900: Number of agents: 5, World size: 20, Obstacle probability: 0.26
+[EPISODE 4900] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.46000000000001 | On Goal: 0.4 | Blocking: 0.0 | Time: 26.31s
+Started test 15200: Number of agents: 5, World size: 20, Obstacle probability: 0.18
+[EPISODE 15200] Success: True | Steps: 27 || Collisions: 0.0 | | Reward: -1.8999999999999957 | On Goal: 10.8 | Blocking: 0.0 | Time: 3.06s
+Started test 15300: Number of agents: 5, World size: 30, Obstacle probability: 0.18
+[EPISODE 15300] Success: True | Steps: 43 || Collisions: 1.8 | | Reward: -14.339999999999995 | On Goal: 13.2 | Blocking: 0.0 | Time: 7.25s
+Started test 5000: Number of agents: 5, World size: 20, Obstacle probability: 0.12
+[EPISODE 5000] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -77.52 | On Goal: 0.0 | Blocking: 0.0 | Time: 35.55s
+Started test 15400: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 15400] Success: False | Steps: 256 || Collisions: 141.0 | | Reward: -334.14000000000004 | On Goal: 88.6 | Blocking: 0.0 | Time: 45.56s
+Started test 15500: Number of agents: 5, World size: 40, Obstacle probability: 0.18
+[EPISODE 15500] Success: False | Steps: 256 || Collisions: 49.2 | | Reward: -195.48000000000002 | On Goal: 176.0 | Blocking: 0.0 | Time: 36.45s
+Started test 15600: Number of agents: 5, World size: 70, Obstacle probability: 0.29
+[EPISODE 15600] Success: False | Steps: 256 || Collisions: 100.8 | | Reward: -267.5999999999987 | On Goal: 97.6 | Blocking: 0.0 | Time: 41.05s
+Started test 5100: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 5100] Success: False | Steps: 256 || Collisions: 0.6 | | Reward: -78.13999999999999 | On Goal: 1.4 | Blocking: 0.0 | Time: 33.15s
+Started test 15700: Number of agents: 5, World size: 40, Obstacle probability: 0.24
+[EPISODE 15700] Success: False | Steps: 256 || Collisions: 49.6 | | Reward: -199.44 | On Goal: 192.4 | Blocking: 0.0 | Time: 44.99s
+Started test 15800: Number of agents: 5, World size: 70, Obstacle probability: 0.26
+[EPISODE 15800] Success: False | Steps: 256 || Collisions: 121.4 | | Reward: -300.0999999999998 | On Goal: 85.0 | Blocking: 0.0 | Time: 50.94s
+Started test 15900: Number of agents: 5, World size: 30, Obstacle probability: 0.15
+[EPISODE 15900] Success: True | Steps: 31 || Collisions: 0.0 | | Reward: -7.519999999999999 | On Goal: 12.4 | Blocking: 0.0 | Time: 5.23s
+Started test 5200: Number of agents: 5, World size: 60, Obstacle probability: 0.23
+[EPISODE 5200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.92 | On Goal: 0.0 | Blocking: 0.0 | Time: 47.36s
+Started test 16000: Number of agents: 5, World size: 50, Obstacle probability: 0.24
+[EPISODE 16000] Success: False | Steps: 256 || Collisions: 190.2 | | Reward: -409.06 | On Goal: 44.8 | Blocking: 0.0 | Time: 44.90s
+Started test 16100: Number of agents: 5, World size: 50, Obstacle probability: 0.25
+[EPISODE 16100] Success: False | Steps: 256 || Collisions: 98.6 | | Reward: -263.8199999999988 | On Goal: 97.4 | Blocking: 0.0 | Time: 46.34s
+Started test 5300: Number of agents: 5, World size: 40, Obstacle probability: 0.11
+[EPISODE 5300] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.17999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 42.72s
+Started test 16200: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 16200] Success: False | Steps: 256 || Collisions: 84.6 | | Reward: -227.90000000000015 | On Goal: 36.6 | Blocking: 0.0 | Time: 51.11s
+Started test 16300: Number of agents: 5, World size: 40, Obstacle probability: 0.23
+[EPISODE 16300] Success: False | Steps: 256 || Collisions: 95.2 | | Reward: -266.36 | On Goal: 139.2 | Blocking: 0.0 | Time: 44.20s
+Started test 16400: Number of agents: 5, World size: 10, Obstacle probability: 0.30
+[EPISODE 16400] Success: False | Steps: 256 || Collisions: 203.6 | | Reward: -422.9199999999987 | On Goal: 0.0 | Blocking: 0.0 | Time: 39.60s
+Started test 5400: Number of agents: 5, World size: 50, Obstacle probability: 0.19
+[EPISODE 5400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 48.18s
+Started test 16500: Number of agents: 5, World size: 10, Obstacle probability: 0.23
+[EPISODE 16500] Success: False | Steps: 256 || Collisions: 101.0 | | Reward: -278.38 | On Goal: 150.0 | Blocking: 0.0 | Time: 36.23s
+Started test 16600: Number of agents: 5, World size: 70, Obstacle probability: 0.30
+[EPISODE 16600] Success: False | Steps: 256 || Collisions: 96.0 | | Reward: -247.91999999999993 | On Goal: 39.8 | Blocking: 0.0 | Time: 54.28s
+Started test 16700: Number of agents: 5, World size: 10, Obstacle probability: 0.25
+[EPISODE 16700] Success: False | Steps: 256 || Collisions: 53.2 | | Reward: -205.23999999999995 | On Goal: 190.8 | Blocking: 0.0 | Time: 34.37s
+Started test 5500: Number of agents: 5, World size: 60, Obstacle probability: 0.12
+[EPISODE 5500] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.25999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 48.74s
+Started test 16800: Number of agents: 5, World size: 60, Obstacle probability: 0.29
+[EPISODE 16800] Success: False | Steps: 256 || Collisions: 97.8 | | Reward: -243.06000000000003 | On Goal: 0.0 | Blocking: 0.0 | Time: 52.86s
+Started test 16900: Number of agents: 5, World size: 40, Obstacle probability: 0.21
+[EPISODE 16900] Success: True | Steps: 78 || Collisions: 0.0 | | Reward: -27.539999999999992 | On Goal: 41.2 | Blocking: 0.0 | Time: 13.63s
+Started test 17000: Number of agents: 5, World size: 10, Obstacle probability: 0.24
+[EPISODE 17000] Success: False | Steps: 256 || Collisions: 102.0 | | Reward: -280.0 | On Goal: 149.6 | Blocking: 0.0 | Time: 36.27s
+Started test 5600: Number of agents: 5, World size: 60, Obstacle probability: 0.19
+[EPISODE 5600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 50.97s
+Started test 17100: Number of agents: 5, World size: 30, Obstacle probability: 0.11
+[EPISODE 17100] Success: True | Steps: 35 || Collisions: 0.0 | | Reward: 7.839999999999999 | On Goal: 11.6 | Blocking: 0.0 | Time: 5.87s
+Started test 17200: Number of agents: 5, World size: 20, Obstacle probability: 0.22
+[EPISODE 17200] Success: False | Steps: 256 || Collisions: 152.6 | | Reward: -355.98 | On Goal: 99.2 | Blocking: 0.0 | Time: 44.54s
+Started test 17300: Number of agents: 5, World size: 50, Obstacle probability: 0.17
+[EPISODE 17300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -115.4400000000001 | On Goal: 194.0 | Blocking: 0.0 | Time: 47.87s
+Started test 5700: Number of agents: 5, World size: 60, Obstacle probability: 0.13
+[EPISODE 5700] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.22 | On Goal: 0.0 | Blocking: 0.0 | Time: 50.08s
+Started test 17400: Number of agents: 5, World size: 10, Obstacle probability: 0.24
+[EPISODE 17400] Success: True | Steps: 14 || Collisions: 0.2 | | Reward: 15.2 | On Goal: 4.6 | Blocking: 0.0 | Time: 2.00s
+Started test 17500: Number of agents: 5, World size: 30, Obstacle probability: 0.26
+[EPISODE 17500] Success: False | Steps: 256 || Collisions: 83.8 | | Reward: -238.73999999999927 | On Goal: 97.8 | Blocking: 0.0 | Time: 44.06s
+Started test 5800: Number of agents: 5, World size: 10, Obstacle probability: 0.29
+[EPISODE 5800] Success: False | Steps: 256 || Collisions: 2.0 | | Reward: -80.79999999999997 | On Goal: 10.4 | Blocking: 0.0 | Time: 37.58s
+Started test 17600: Number of agents: 5, World size: 40, Obstacle probability: 0.10
+[EPISODE 17600] Success: False | Steps: 256 || Collisions: 49.2 | | Reward: -195.68 | On Goal: 177.0 | Blocking: 0.0 | Time: 43.44s
+Started test 17700: Number of agents: 5, World size: 10, Obstacle probability: 0.23
+[EPISODE 17700] Success: True | Steps: 13 || Collisions: 0.0 | | Reward: 15.639999999999997 | On Goal: 5.6 | Blocking: 0.0 | Time: 1.84s
+Started test 17800: Number of agents: 5, World size: 40, Obstacle probability: 0.26
+[EPISODE 17800] Success: False | Steps: 256 || Collisions: 157.2 | | Reward: -353.35999999999876 | On Goal: 46.8 | Blocking: 0.0 | Time: 47.11s
+Started test 5900: Number of agents: 5, World size: 50, Obstacle probability: 0.26
+[EPISODE 5900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -78.03999999999995 | On Goal: 0.0 | Blocking: 0.0 | Time: 43.69s
+Started test 17900: Number of agents: 5, World size: 60, Obstacle probability: 0.11
+[EPISODE 17900] Success: True | Steps: 44 || Collisions: 0.0 | | Reward: -12.019999999999992 | On Goal: 15.4 | Blocking: 0.0 | Time: 7.82s
+Started test 18000: Number of agents: 5, World size: 60, Obstacle probability: 0.17
+[EPISODE 18000] Success: True | Steps: 66 || Collisions: 0.0 | | Reward: -8.83999999999999 | On Goal: 28.0 | Blocking: 0.0 | Time: 12.85s
+Started test 18100: Number of agents: 5, World size: 20, Obstacle probability: 0.18
+[EPISODE 18100] Success: True | Steps: 30 || Collisions: 0.0 | | Reward: 3.8800000000000052 | On Goal: 18.4 | Blocking: 0.0 | Time: 4.99s
+Started test 6000: Number of agents: 5, World size: 50, Obstacle probability: 0.26
+[EPISODE 6000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.88 | On Goal: 0.0 | Blocking: 0.0 | Time: 44.77s
+Started test 18200: Number of agents: 5, World size: 10, Obstacle probability: 0.14
+[EPISODE 18200] Success: False | Steps: 256 || Collisions: 100.4 | | Reward: -277.44 | On Goal: 150.4 | Blocking: 0.0 | Time: 34.38s
+Started test 18300: Number of agents: 5, World size: 70, Obstacle probability: 0.11
+[EPISODE 18300] Success: True | Steps: 89 || Collisions: 0.0 | | Reward: -26.099999999999977 | On Goal: 38.8 | Blocking: 0.0 | Time: 17.59s
+Started test 18400: Number of agents: 5, World size: 20, Obstacle probability: 0.15
+[EPISODE 18400] Success: False | Steps: 256 || Collisions: 4.6 | | Reward: -130.85999999999999 | On Goal: 192.0 | Blocking: 0.0 | Time: 39.69s
+Started test 6100: Number of agents: 5, World size: 30, Obstacle probability: 0.19
+[EPISODE 6100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.84 | On Goal: 0.0 | Blocking: 0.0 | Time: 43.17s
+Started test 18500: Number of agents: 5, World size: 60, Obstacle probability: 0.23
+[EPISODE 18500] Success: False | Steps: 256 || Collisions: 40.4 | | Reward: -181.6 | On Goal: 181.4 | Blocking: 0.0 | Time: 50.23s
+Started test 18600: Number of agents: 5, World size: 60, Obstacle probability: 0.20
+[EPISODE 18600] Success: False | Steps: 256 || Collisions: 39.6 | | Reward: -171.31999999999942 | On Goal: 136.6 | Blocking: 0.0 | Time: 51.13s
+Started test 6200: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 6200] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.17999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 44.74s
+Started test 18700: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 18700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -110.96000000000018 | On Goal: 171.6 | Blocking: 0.0 | Time: 48.97s
+Started test 18800: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 18800] Success: False | Steps: 256 || Collisions: 98.6 | | Reward: -262.73999999999876 | On Goal: 92.0 | Blocking: 0.0 | Time: 47.68s
+Started test 18900: Number of agents: 5, World size: 60, Obstacle probability: 0.23
+[EPISODE 18900] Success: False | Steps: 256 || Collisions: 145.6 | | Reward: -342.88 | On Goal: 93.2 | Blocking: 0.0 | Time: 46.80s
+Started test 6300: Number of agents: 5, World size: 60, Obstacle probability: 0.26
+[EPISODE 6300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.88 | On Goal: 0.0 | Blocking: 0.0 | Time: 48.05s
+Started test 19000: Number of agents: 5, World size: 40, Obstacle probability: 0.14
+[EPISODE 19000] Success: False | Steps: 256 || Collisions: 44.0 | | Reward: -189.56 | On Goal: 190.6 | Blocking: 0.0 | Time: 45.44s
+Started test 19100: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 19100] Success: False | Steps: 256 || Collisions: 49.8 | | Reward: -201.57999999999998 | On Goal: 201.4 | Blocking: 0.0 | Time: 35.16s
+Started test 19200: Number of agents: 5, World size: 30, Obstacle probability: 0.14
+[EPISODE 19200] Success: True | Steps: 27 || Collisions: 0.0 | | Reward: -4.639999999999999 | On Goal: 4.0 | Blocking: 0.0 | Time: 4.60s
+Started test 6400: Number of agents: 5, World size: 50, Obstacle probability: 0.23
+[EPISODE 6400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 46.60s
+Started test 19300: Number of agents: 5, World size: 20, Obstacle probability: 0.21
+[EPISODE 19300] Success: False | Steps: 256 || Collisions: 46.6 | | Reward: -194.62 | On Goal: 193.8 | Blocking: 0.0 | Time: 40.74s
+Started test 19400: Number of agents: 5, World size: 10, Obstacle probability: 0.24
+[EPISODE 19400] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -116.92000000000007 | On Goal: 198.0 | Blocking: 0.0 | Time: 33.58s
+Started test 19500: Number of agents: 5, World size: 20, Obstacle probability: 0.18
+[EPISODE 19500] Success: True | Steps: 32 || Collisions: 8.0 | | Reward: -16.759999999999994 | On Goal: 9.6 | Blocking: 0.0 | Time: 4.78s
+Started test 6500: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 6500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.88 | On Goal: 9.4 | Blocking: 0.0 | Time: 50.66s
+Started test 19600: Number of agents: 5, World size: 60, Obstacle probability: 0.27
+[EPISODE 19600] Success: False | Steps: 256 || Collisions: 52.4 | | Reward: -185.08000000000078 | On Goal: 96.4 | Blocking: 0.0 | Time: 47.46s
+Started test 19700: Number of agents: 5, World size: 60, Obstacle probability: 0.11
+[EPISODE 19700] Success: True | Steps: 73 || Collisions: 0.0 | | Reward: -16.820000000000004 | On Goal: 16.4 | Blocking: 0.0 | Time: 13.11s
+Started test 19800: Number of agents: 5, World size: 50, Obstacle probability: 0.26
+[EPISODE 19800] Success: False | Steps: 256 || Collisions: 48.0 | | Reward: -194.11999999999998 | On Goal: 179.4 | Blocking: 0.0 | Time: 46.32s
+Started test 6600: Number of agents: 5, World size: 70, Obstacle probability: 0.29
+[EPISODE 6600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 12.6 | Blocking: 0.0 | Time: 50.20s
+Started test 19900: Number of agents: 5, World size: 50, Obstacle probability: 0.28
+[EPISODE 19900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -101.68000000000055 | On Goal: 125.0 | Blocking: 0.0 | Time: 45.60s
+Started test 20000: Number of agents: 5, World size: 70, Obstacle probability: 0.29
+[EPISODE 20000] Success: False | Steps: 256 || Collisions: 91.6 | | Reward: -249.99999999999892 | On Goal: 87.8 | Blocking: 0.0 | Time: 48.79s
+Started test 20100: Number of agents: 5, World size: 40, Obstacle probability: 0.23
+[EPISODE 20100] Success: True | Steps: 45 || Collisions: 0.0 | | Reward: -4.079999999999996 | On Goal: 15.2 | Blocking: 0.0 | Time: 8.86s
+Started test 6700: Number of agents: 5, World size: 40, Obstacle probability: 0.26
+[EPISODE 6700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.03999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 48.81s
+Started test 20200: Number of agents: 5, World size: 10, Obstacle probability: 0.11
+[EPISODE 20200] Success: False | Steps: 256 || Collisions: 100.0 | | Reward: -276.4 | On Goal: 148.6 | Blocking: 0.0 | Time: 32.60s
+Started test 20300: Number of agents: 5, World size: 70, Obstacle probability: 0.30
+[EPISODE 20300] Success: False | Steps: 256 || Collisions: 49.0 | | Reward: -188.77999999999918 | On Goal: 144.0 | Blocking: 0.0 | Time: 51.52s
+Started test 6800: Number of agents: 5, World size: 60, Obstacle probability: 0.15
+Started test 20400: Number of agents: 5, World size: 70, Obstacle probability: 0.28
+[EPISODE 6800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 47.47s
+[EPISODE 20400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -111.68000000000018 | On Goal: 175.2 | Blocking: 0.0 | Time: 51.56s
+Started test 20500: Number of agents: 5, World size: 70, Obstacle probability: 0.23
+[EPISODE 20500] Success: False | Steps: 256 || Collisions: 93.2 | | Reward: -243.63999999999996 | On Goal: 42.2 | Blocking: 0.0 | Time: 49.52s
+Started test 20600: Number of agents: 5, World size: 50, Obstacle probability: 0.27
+[EPISODE 20600] Success: False | Steps: 256 || Collisions: 44.0 | | Reward: -179.15999999999926 | On Goal: 138.4 | Blocking: 0.0 | Time: 47.11s
+Started test 6900: Number of agents: 5, World size: 20, Obstacle probability: 0.18
+[EPISODE 6900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.71999999999963 | On Goal: 12.0 | Blocking: 0.0 | Time: 40.26s
+Started test 20700: Number of agents: 5, World size: 40, Obstacle probability: 0.20
+[EPISODE 20700] Success: False | Steps: 256 || Collisions: 47.8 | | Reward: -193.57999999999998 | On Goal: 178.4 | Blocking: 0.0 | Time: 47.31s
+Started test 20800: Number of agents: 5, World size: 70, Obstacle probability: 0.18
+[EPISODE 20800] Success: False | Steps: 256 || Collisions: 35.2 | | Reward: -167.48000000000008 | On Goal: 155.0 | Blocking: 0.0 | Time: 52.88s
+Started test 20900: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 20900] Success: False | Steps: 256 || Collisions: 85.0 | | Reward: -248.0199999999997 | On Goal: 134.2 | Blocking: 0.0 | Time: 49.96s
+Started test 7000: Number of agents: 5, World size: 40, Obstacle probability: 0.26
+[EPISODE 7000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 46.80s
+Started test 21000: Number of agents: 5, World size: 60, Obstacle probability: 0.10
+[EPISODE 21000] Success: True | Steps: 55 || Collisions: 0.4 | | Reward: -1.1199999999999761 | On Goal: 23.0 | Blocking: 0.0 | Time: 10.15s
+Started test 21100: Number of agents: 5, World size: 50, Obstacle probability: 0.24
+[EPISODE 21100] Success: True | Steps: 29 || Collisions: 0.2 | | Reward: 5.839999999999999 | On Goal: 8.4 | Blocking: 0.0 | Time: 5.36s
+Started test 21200: Number of agents: 5, World size: 40, Obstacle probability: 0.20
+[EPISODE 21200] Success: False | Steps: 256 || Collisions: 47.6 | | Reward: -176.96000000000072 | On Goal: 96.6 | Blocking: 0.0 | Time: 46.09s
+Started test 21300: Number of agents: 5, World size: 50, Obstacle probability: 0.15
+[EPISODE 21300] Success: False | Steps: 256 || Collisions: 39.8 | | Reward: -182.37999999999997 | On Goal: 190.4 | Blocking: 0.0 | Time: 46.36s
+Started test 7100: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 7100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.51999999999997 | On Goal: 0.0 | Blocking: 0.0 | Time: 44.98s
+Started test 21400: Number of agents: 5, World size: 70, Obstacle probability: 0.23
+[EPISODE 21400] Success: False | Steps: 256 || Collisions: 194.0 | | Reward: -416.03999999999996 | On Goal: 47.4 | Blocking: 0.0 | Time: 50.42s
+Started test 21500: Number of agents: 5, World size: 20, Obstacle probability: 0.16
+[EPISODE 21500] Success: False | Steps: 256 || Collisions: 97.6 | | Reward: -271.4 | On Goal: 144.0 | Blocking: 0.0 | Time: 40.47s
+Started test 21600: Number of agents: 5, World size: 50, Obstacle probability: 0.18
+[EPISODE 21600] Success: False | Steps: 256 || Collisions: 46.6 | | Reward: -174.46000000000075 | On Goal: 92.6 | Blocking: 0.0 | Time: 47.89s
+Started test 7200: Number of agents: 5, World size: 60, Obstacle probability: 0.24
+[EPISODE 7200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 47.32s
+Started test 21700: Number of agents: 5, World size: 20, Obstacle probability: 0.27
+[EPISODE 21700] Success: False | Steps: 256 || Collisions: 149.0 | | Reward: -347.86 | On Goal: 89.2 | Blocking: 0.0 | Time: 42.32s
+Started test 21800: Number of agents: 5, World size: 60, Obstacle probability: 0.19
+[EPISODE 21800] Success: True | Steps: 70 || Collisions: 0.0 | | Reward: -18.75999999999999 | On Goal: 30.6 | Blocking: 0.0 | Time: 13.21s
+Started test 21900: Number of agents: 5, World size: 20, Obstacle probability: 0.22
+[EPISODE 21900] Success: False | Steps: 256 || Collisions: 147.8 | | Reward: -348.14 | On Goal: 100.8 | Blocking: 0.0 | Time: 41.65s
+Started test 7300: Number of agents: 5, World size: 70, Obstacle probability: 0.25
+[EPISODE 7300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 48.92s
+Started test 22000: Number of agents: 5, World size: 60, Obstacle probability: 0.11
+[EPISODE 22000] Success: True | Steps: 40 || Collisions: 0.0 | | Reward: -5.560000000000002 | On Goal: 9.6 | Blocking: 0.0 | Time: 7.82s
+Started test 22100: Number of agents: 5, World size: 10, Obstacle probability: 0.11
+[EPISODE 22100] Success: True | Steps: 10 || Collisions: 0.2 | | Reward: 0.4800000000000004 | On Goal: 2.2 | Blocking: 0.0 | Time: 1.74s
+Started test 22200: Number of agents: 5, World size: 30, Obstacle probability: 0.11
+[EPISODE 22200] Success: True | Steps: 42 || Collisions: 0.0 | | Reward: 8.526512829121202e-15 | On Goal: 19.8 | Blocking: 0.0 | Time: 7.09s
+Started test 7400: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 7400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.31999999999998 | On Goal: 0.0 | Blocking: 0.0 | Time: 48.73s
+Started test 22300: Number of agents: 5, World size: 40, Obstacle probability: 0.26
+[EPISODE 22300] Success: False | Steps: 256 || Collisions: 141.0 | | Reward: -333.66 | On Goal: 85.8 | Blocking: 0.0 | Time: 46.48s
+Started test 22400: Number of agents: 5, World size: 60, Obstacle probability: 0.16
+[EPISODE 22400] Success: True | Steps: 58 || Collisions: 0.0 | | Reward: -4.3199999999999985 | On Goal: 17.4 | Blocking: 0.0 | Time: 11.65s
+Started test 22500: Number of agents: 5, World size: 50, Obstacle probability: 0.23
+[EPISODE 22500] Success: False | Steps: 256 || Collisions: 40.8 | | Reward: -165.1600000000007 | On Goal: 95.4 | Blocking: 0.0 | Time: 45.83s
+Started test 7500: Number of agents: 5, World size: 40, Obstacle probability: 0.12
+[EPISODE 7500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.67999999999957 | On Goal: 15.4 | Blocking: 0.0 | Time: 44.55s
+Started test 22600: Number of agents: 5, World size: 20, Obstacle probability: 0.16
+[EPISODE 22600] Success: False | Steps: 256 || Collisions: 47.0 | | Reward: -195.94 | On Goal: 197.0 | Blocking: 0.0 | Time: 42.17s
+Started test 22700: Number of agents: 5, World size: 10, Obstacle probability: 0.11
+[EPISODE 22700] Success: False | Steps: 256 || Collisions: 50.8 | | Reward: -203.4 | On Goal: 202.0 | Blocking: 0.0 | Time: 30.37s
+Started test 22800: Number of agents: 5, World size: 50, Obstacle probability: 0.30
+[EPISODE 22800] Success: False | Steps: 256 || Collisions: 48.6 | | Reward: -168.4599999999993 | On Goal: 45.4 | Blocking: 0.0 | Time: 48.48s
+Started test 7600: Number of agents: 5, World size: 30, Obstacle probability: 0.13
+[EPISODE 7600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -90.83999999999953 | On Goal: 70.0 | Blocking: 0.0 | Time: 42.54s
+Started test 22900: Number of agents: 5, World size: 50, Obstacle probability: 0.18
+[EPISODE 22900] Success: False | Steps: 256 || Collisions: 65.8 | | Reward: -214.65999999999934 | On Goal: 130.6 | Blocking: 0.0 | Time: 42.84s
+Started test 23000: Number of agents: 5, World size: 70, Obstacle probability: 0.28
+[EPISODE 23000] Success: False | Steps: 256 || Collisions: 122.8 | | Reward: -293.95999999999896 | On Goal: 42.2 | Blocking: 0.0 | Time: 51.31s
+Started test 23100: Number of agents: 5, World size: 30, Obstacle probability: 0.16
+[EPISODE 23100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -115.00000000000011 | On Goal: 191.8 | Blocking: 0.0 | Time: 41.08s
+Started test 7700: Number of agents: 5, World size: 10, Obstacle probability: 0.20
+Started test 23200: Number of agents: 5, World size: 40, Obstacle probability: 0.22
+[EPISODE 7700] Success: False | Steps: 256 || Collisions: 1.4 | | Reward: -112.50000000000037 | On Goal: 162.2 | Blocking: 0.0 | Time: 38.89s
+[EPISODE 23200] Success: False | Steps: 256 || Collisions: 50.0 | | Reward: -189.4399999999992 | On Goal: 138.8 | Blocking: 0.0 | Time: 40.16s
+Started test 23300: Number of agents: 5, World size: 20, Obstacle probability: 0.24
+[EPISODE 23300] Success: False | Steps: 256 || Collisions: 49.0 | | Reward: -199.06 | On Goal: 195.6 | Blocking: 0.0 | Time: 41.84s
+Started test 23400: Number of agents: 5, World size: 30, Obstacle probability: 0.27
+[EPISODE 23400] Success: True | Steps: 35 || Collisions: 0.0 | | Reward: 3.5000000000000058 | On Goal: 12.8 | Blocking: 0.0 | Time: 6.07s
+Started test 23500: Number of agents: 5, World size: 70, Obstacle probability: 0.19
+Started test 7800: Number of agents: 5, World size: 10, Obstacle probability: 0.24
+[EPISODE 7800] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -106.60000000000048 | On Goal: 145.2 | Blocking: 0.0 | Time: 33.82s
+[EPISODE 23500] Success: False | Steps: 256 || Collisions: 44.6 | | Reward: -182.9800000000001 | On Goal: 152.6 | Blocking: 0.0 | Time: 50.11s
+Started test 23600: Number of agents: 5, World size: 60, Obstacle probability: 0.29
+[EPISODE 23600] Success: False | Steps: 256 || Collisions: 189.8 | | Reward: -408.70000000000005 | On Goal: 46.4 | Blocking: 0.0 | Time: 48.09s
+Started test 23700: Number of agents: 5, World size: 50, Obstacle probability: 0.18
+[EPISODE 23700] Success: True | Steps: 74 || Collisions: 0.0 | | Reward: -27.740000000000016 | On Goal: 49.0 | Blocking: 0.0 | Time: 13.34s
+Started test 7900: Number of agents: 5, World size: 40, Obstacle probability: 0.25
+[EPISODE 7900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.96000000000001 | On Goal: 0.0 | Blocking: 0.0 | Time: 44.99s
+Started test 23800: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 23800] Success: True | Steps: 64 || Collisions: 0.0 | | Reward: -2.5799999999999867 | On Goal: 20.2 | Blocking: 0.0 | Time: 11.77s
+Started test 23900: Number of agents: 5, World size: 50, Obstacle probability: 0.19
+[EPISODE 23900] Success: False | Steps: 256 || Collisions: 46.0 | | Reward: -189.8 | On Goal: 174.8 | Blocking: 0.0 | Time: 45.94s
+Started test 24000: Number of agents: 5, World size: 50, Obstacle probability: 0.13
+[EPISODE 24000] Success: False | Steps: 256 || Collisions: 49.8 | | Reward: -196.22000000000003 | On Goal: 174.6 | Blocking: 0.0 | Time: 42.99s
+Started test 24100: Number of agents: 5, World size: 20, Obstacle probability: 0.26
+[EPISODE 24100] Success: True | Steps: 16 || Collisions: 0.0 | | Reward: -1.4600000000000009 | On Goal: 4.6 | Blocking: 0.0 | Time: 2.55s
+Started test 8000: Number of agents: 5, World size: 30, Obstacle probability: 0.16
+[EPISODE 8000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -114.80000000000011 | On Goal: 190.6 | Blocking: 0.0 | Time: 41.79s
+Started test 24200: Number of agents: 5, World size: 20, Obstacle probability: 0.20
+[EPISODE 24200] Success: False | Steps: 256 || Collisions: 12.6 | | Reward: -138.69999999999987 | On Goal: 141.8 | Blocking: 0.0 | Time: 35.68s
+Started test 24300: Number of agents: 5, World size: 30, Obstacle probability: 0.16
+[EPISODE 24300] Success: True | Steps: 42 || Collisions: 0.0 | | Reward: -4.379999999999998 | On Goal: 21.2 | Blocking: 0.0 | Time: 6.71s
+Started test 24400: Number of agents: 5, World size: 50, Obstacle probability: 0.23
+[EPISODE 24400] Success: False | Steps: 256 || Collisions: 90.4 | | Reward: -257.91999999999996 | On Goal: 137.8 | Blocking: 0.0 | Time: 42.68s
+Started test 8100: Number of agents: 5, World size: 50, Obstacle probability: 0.26
+[EPISODE 8100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 46.64s
+Started test 24500: Number of agents: 5, World size: 20, Obstacle probability: 0.29
+[EPISODE 24500] Success: False | Steps: 256 || Collisions: 64.4 | | Reward: -215.59999999999937 | On Goal: 147.2 | Blocking: 0.0 | Time: 40.42s
+Started test 24600: Number of agents: 5, World size: 70, Obstacle probability: 0.22
+[EPISODE 24600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -111.08000000000004 | On Goal: 172.2 | Blocking: 0.0 | Time: 45.56s
+Started test 24700: Number of agents: 5, World size: 30, Obstacle probability: 0.20
+[EPISODE 24700] Success: True | Steps: 38 || Collisions: 0.0 | | Reward: -6.599999999999992 | On Goal: 17.8 | Blocking: 0.0 | Time: 6.04s
+Started test 8200: Number of agents: 5, World size: 20, Obstacle probability: 0.26
+[EPISODE 8200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -95.71999999999959 | On Goal: 94.0 | Blocking: 0.0 | Time: 39.35s
+Started test 24800: Number of agents: 5, World size: 30, Obstacle probability: 0.20
+[EPISODE 24800] Success: False | Steps: 256 || Collisions: 45.6 | | Reward: -191.4 | On Goal: 186.2 | Blocking: 0.0 | Time: 42.14s
+Started test 24900: Number of agents: 5, World size: 50, Obstacle probability: 0.17
+[EPISODE 24900] Success: False | Steps: 256 || Collisions: 5.8 | | Reward: -121.01999999999995 | On Goal: 172.6 | Blocking: 0.0 | Time: 47.00s
+Started test 25000: Number of agents: 5, World size: 40, Obstacle probability: 0.20
+[EPISODE 25000] Success: False | Steps: 256 || Collisions: 10.2 | | Reward: -130.17999999999986 | On Goal: 181.0 | Blocking: 0.0 | Time: 43.73s
+Started test 8300: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 8300] Success: True | Steps: 47 || Collisions: 0.0 | | Reward: -0.3599999999999852 | On Goal: 34.4 | Blocking: 0.0 | Time: 5.76s
+Started test 25100: Number of agents: 5, World size: 60, Obstacle probability: 0.26
+[EPISODE 25100] Success: False | Steps: 256 || Collisions: 47.0 | | Reward: -175.26000000000073 | On Goal: 93.2 | Blocking: 0.0 | Time: 47.12s
+Started test 25200: Number of agents: 5, World size: 30, Obstacle probability: 0.19
+[EPISODE 25200] Success: True | Steps: 47 || Collisions: 0.0 | | Reward: 3.120000000000007 | On Goal: 17.2 | Blocking: 0.0 | Time: 8.02s
+Started test 25300: Number of agents: 5, World size: 70, Obstacle probability: 0.21
+[EPISODE 25300] Success: False | Steps: 256 || Collisions: 89.6 | | Reward: -254.48000000000008 | On Goal: 127.4 | Blocking: 0.0 | Time: 50.53s
+Started test 8400: Number of agents: 5, World size: 60, Obstacle probability: 0.17
+[EPISODE 8400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -82.2399999999997 | On Goal: 0.0 | Blocking: 0.0 | Time: 47.13s
+Started test 25400: Number of agents: 5, World size: 30, Obstacle probability: 0.20
+[EPISODE 25400] Success: False | Steps: 256 || Collisions: 100.0 | | Reward: -275.52 | On Goal: 144.2 | Blocking: 0.0 | Time: 40.50s
+Started test 25500: Number of agents: 5, World size: 30, Obstacle probability: 0.30
+[EPISODE 25500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -114.5600000000001 | On Goal: 189.6 | Blocking: 0.0 | Time: 42.68s
+Started test 25600: Number of agents: 5, World size: 20, Obstacle probability: 0.17
+[EPISODE 25600] Success: True | Steps: 19 || Collisions: 0.0 | | Reward: 8.62 | On Goal: 11.2 | Blocking: 0.0 | Time: 2.72s
+Started test 8500: Number of agents: 5, World size: 10, Obstacle probability: 0.14
+[EPISODE 8500] Success: True | Steps: 13 || Collisions: 0.0 | | Reward: 15.040000000000001 | On Goal: 8.2 | Blocking: 0.0 | Time: 1.72s
+Started test 25700: Number of agents: 5, World size: 70, Obstacle probability: 0.12
+[EPISODE 25700] Success: False | Steps: 256 || Collisions: 45.4 | | Reward: -188.10000000000002 | On Goal: 171.4 | Blocking: 0.0 | Time: 49.27s
+Started test 25800: Number of agents: 5, World size: 70, Obstacle probability: 0.30
+[EPISODE 25800] Success: False | Steps: 256 || Collisions: 94.2 | | Reward: -245.9399999999999 | On Goal: 45.2 | Blocking: 0.0 | Time: 51.56s
+Started test 25900: Number of agents: 5, World size: 70, Obstacle probability: 0.18
+[EPISODE 25900] Success: False | Steps: 256 || Collisions: 71.6 | | Reward: -223.24000000000015 | On Goal: 124.2 | Blocking: 0.0 | Time: 48.31s
+Started test 8600: Number of agents: 5, World size: 30, Obstacle probability: 0.25
+[EPISODE 8600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.51999999999963 | On Goal: 48.8 | Blocking: 0.0 | Time: 39.62s
+Started test 26000: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 26000] Success: True | Steps: 12 || Collisions: 0.0 | | Reward: -0.13999999999999985 | On Goal: 4.0 | Blocking: 0.0 | Time: 1.50s
+Started test 26100: Number of agents: 5, World size: 40, Obstacle probability: 0.15
+[EPISODE 26100] Success: True | Steps: 53 || Collisions: 0.2 | | Reward: -2.6799999999999984 | On Goal: 15.0 | Blocking: 0.0 | Time: 8.85s
+Started test 26200: Number of agents: 5, World size: 40, Obstacle probability: 0.12
+[EPISODE 26200] Success: True | Steps: 61 || Collisions: 0.0 | | Reward: -8.619999999999981 | On Goal: 34.4 | Blocking: 0.0 | Time: 10.19s
+Started test 8700: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 8700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -92.95999999999961 | On Goal: 81.2 | Blocking: 0.0 | Time: 42.96s
+Started test 26300: Number of agents: 5, World size: 30, Obstacle probability: 0.23
+[EPISODE 26300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -113.36000000000016 | On Goal: 183.6 | Blocking: 0.0 | Time: 43.14s
+Started test 26400: Number of agents: 5, World size: 70, Obstacle probability: 0.21
+[EPISODE 26400] Success: False | Steps: 256 || Collisions: 138.8 | | Reward: -320.35999999999865 | On Goal: 38.2 | Blocking: 0.0 | Time: 51.06s
+Started test 26500: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 26500] Success: False | Steps: 256 || Collisions: 54.6 | | Reward: -185.42000000000087 | On Goal: 79.4 | Blocking: 0.0 | Time: 48.29s
+Started test 8800: Number of agents: 5, World size: 50, Obstacle probability: 0.22
+[EPISODE 8800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.39999999999962 | On Goal: 47.8 | Blocking: 0.0 | Time: 47.80s
+Started test 26600: Number of agents: 5, World size: 40, Obstacle probability: 0.26
+[EPISODE 26600] Success: False | Steps: 256 || Collisions: 52.6 | | Reward: -193.89999999999907 | On Goal: 139.0 | Blocking: 0.0 | Time: 44.40s
+Started test 26700: Number of agents: 5, World size: 30, Obstacle probability: 0.13
+[EPISODE 26700] Success: True | Steps: 33 || Collisions: 0.2 | | Reward: -3.7999999999999985 | On Goal: 9.6 | Blocking: 0.0 | Time: 5.54s
+Started test 26800: Number of agents: 5, World size: 10, Obstacle probability: 0.27
+[EPISODE 26800] Success: False | Steps: 256 || Collisions: 85.0 | | Reward: -250.97999999999965 | On Goal: 149.0 | Blocking: 0.0 | Time: 34.04s
+Started test 8900: Number of agents: 5, World size: 30, Obstacle probability: 0.16
+[EPISODE 8900] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -78.21999999999994 | On Goal: 5.2 | Blocking: 0.0 | Time: 41.12s
+Started test 26900: Number of agents: 5, World size: 10, Obstacle probability: 0.11
+[EPISODE 26900] Success: True | Steps: 9 || Collisions: 0.2 | | Reward: 4.4799999999999995 | On Goal: 4.2 | Blocking: 0.0 | Time: 1.15s
+Started test 27000: Number of agents: 5, World size: 40, Obstacle probability: 0.30
+[EPISODE 27000] Success: False | Steps: 256 || Collisions: 50.4 | | Reward: -200.76 | On Goal: 192.2 | Blocking: 0.0 | Time: 43.08s
+Started test 27100: Number of agents: 5, World size: 40, Obstacle probability: 0.20
+[EPISODE 27100] Success: False | Steps: 256 || Collisions: 50.0 | | Reward: -198.39999999999998 | On Goal: 183.8 | Blocking: 0.0 | Time: 45.86s
+Started test 9000: Number of agents: 5, World size: 70, Obstacle probability: 0.20
+[EPISODE 9000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -96.27999999999956 | On Goal: 97.8 | Blocking: 0.0 | Time: 51.99s
+Started test 27200: Number of agents: 5, World size: 30, Obstacle probability: 0.18
+[EPISODE 27200] Success: False | Steps: 256 || Collisions: 147.0 | | Reward: -345.9 | On Goal: 96.4 | Blocking: 0.0 | Time: 45.30s
+Started test 27300: Number of agents: 5, World size: 10, Obstacle probability: 0.17
+[EPISODE 27300] Success: True | Steps: 9 || Collisions: 0.0 | | Reward: 12.66 | On Goal: 6.0 | Blocking: 0.0 | Time: 1.23s
+Started test 27400: Number of agents: 5, World size: 40, Obstacle probability: 0.25
+[EPISODE 27400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -105.44000000000048 | On Goal: 143.8 | Blocking: 0.0 | Time: 45.57s
+Started test 9100: Number of agents: 5, World size: 10, Obstacle probability: 0.14
+[EPISODE 9100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -115.76000000000008 | On Goal: 194.8 | Blocking: 0.0 | Time: 33.52s
+Started test 27500: Number of agents: 5, World size: 70, Obstacle probability: 0.12
+[EPISODE 27500] Success: True | Steps: 80 || Collisions: 0.0 | | Reward: -26.179999999999996 | On Goal: 32.2 | Blocking: 0.0 | Time: 14.44s
+Started test 27600: Number of agents: 5, World size: 60, Obstacle probability: 0.28
+[EPISODE 27600] Success: False | Steps: 256 || Collisions: 115.4 | | Reward: -292.0199999999992 | On Goal: 95.6 | Blocking: 0.0 | Time: 45.78s
+Started test 27700: Number of agents: 5, World size: 10, Obstacle probability: 0.29
+[EPISODE 27700] Success: True | Steps: 7 || Collisions: 0.4 | | Reward: 9.200000000000001 | On Goal: 2.4 | Blocking: 0.0 | Time: 0.99s
+Started test 27800: Number of agents: 5, World size: 70, Obstacle probability: 0.18
+[EPISODE 27800] Success: True | Steps: 85 || Collisions: 4.0 | | Reward: -24.020000000000046 | On Goal: 41.4 | Blocking: 0.0 | Time: 14.62s
+Started test 9200: Number of agents: 5, World size: 40, Obstacle probability: 0.11
+[EPISODE 9200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -92.75999999999951 | On Goal: 80.2 | Blocking: 0.0 | Time: 40.12s
+Started test 27900: Number of agents: 5, World size: 30, Obstacle probability: 0.28
+[EPISODE 27900] Success: False | Steps: 256 || Collisions: 48.2 | | Reward: -178.42000000000073 | On Goal: 98.8 | Blocking: 0.0 | Time: 40.95s
+Started test 28000: Number of agents: 5, World size: 10, Obstacle probability: 0.26
+[EPISODE 28000] Success: True | Steps: 12 || Collisions: 0.6 | | Reward: -1.36 | On Goal: 5.0 | Blocking: 0.0 | Time: 1.72s
+Started test 9300: Number of agents: 5, World size: 50, Obstacle probability: 0.10
+[EPISODE 9300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -85.47999999999963 | On Goal: 43.2 | Blocking: 0.0 | Time: 44.49s
+Started test 28100: Number of agents: 5, World size: 10, Obstacle probability: 0.20
+[EPISODE 28100] Success: True | Steps: 12 || Collisions: 0.8 | | Reward: 2.44 | On Goal: 4.8 | Blocking: 0.0 | Time: 1.58s
+Started test 28200: Number of agents: 5, World size: 40, Obstacle probability: 0.16
+[EPISODE 28200] Success: True | Steps: 39 || Collisions: 0.0 | | Reward: 2.0200000000000076 | On Goal: 14.2 | Blocking: 0.0 | Time: 6.74s
+Started test 28300: Number of agents: 5, World size: 70, Obstacle probability: 0.17
+[EPISODE 28300] Success: False | Steps: 256 || Collisions: 75.8 | | Reward: -233.65999999999994 | On Goal: 140.6 | Blocking: 0.0 | Time: 48.72s
+Started test 9400: Number of agents: 5, World size: 60, Obstacle probability: 0.10
+[EPISODE 9400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 45.14s
+Started test 28400: Number of agents: 5, World size: 10, Obstacle probability: 0.19
+[EPISODE 28400] Success: False | Steps: 256 || Collisions: 140.0 | | Reward: -334.8399999999997 | On Goal: 100.4 | Blocking: 0.0 | Time: 38.84s
+Started test 28500: Number of agents: 5, World size: 50, Obstacle probability: 0.13
+[EPISODE 28500] Success: False | Steps: 256 || Collisions: 98.8 | | Reward: -271.6400000000001 | On Goal: 135.0 | Blocking: 0.0 | Time: 40.25s
+Started test 28600: Number of agents: 5, World size: 50, Obstacle probability: 0.26
+[EPISODE 28600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -102.64000000000048 | On Goal: 129.8 | Blocking: 0.0 | Time: 41.38s
+Started test 9500: Number of agents: 5, World size: 40, Obstacle probability: 0.14
+[EPISODE 9500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.75999999999962 | On Goal: 50.0 | Blocking: 0.0 | Time: 44.02s
+Started test 28700: Number of agents: 5, World size: 70, Obstacle probability: 0.21
+[EPISODE 28700] Success: False | Steps: 256 || Collisions: 152.2 | | Reward: -344.49999999999847 | On Goal: 45.0 | Blocking: 0.0 | Time: 47.08s
+Started test 28800: Number of agents: 5, World size: 70, Obstacle probability: 0.15
+[EPISODE 28800] Success: True | Steps: 82 || Collisions: 0.2 | | Reward: -9.080000000000041 | On Goal: 24.0 | Blocking: 0.0 | Time: 14.50s
+Started test 28900: Number of agents: 5, World size: 40, Obstacle probability: 0.21
+[EPISODE 28900] Success: True | Steps: 60 || Collisions: 1.8 | | Reward: -6.399999999999983 | On Goal: 30.0 | Blocking: 0.0 | Time: 10.13s
+Started test 9600: Number of agents: 5, World size: 40, Obstacle probability: 0.17
+[EPISODE 9600] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -81.07999999999979 | On Goal: 18.0 | Blocking: 0.0 | Time: 43.08s
+Started test 29000: Number of agents: 5, World size: 50, Obstacle probability: 0.24
+[EPISODE 29000] Success: False | Steps: 256 || Collisions: 48.2 | | Reward: -185.41999999999922 | On Goal: 134.0 | Blocking: 0.0 | Time: 43.17s
+Started test 29100: Number of agents: 5, World size: 70, Obstacle probability: 0.23
+[EPISODE 29100] Success: False | Steps: 256 || Collisions: 47.2 | | Reward: -183.8399999999992 | On Goal: 134.6 | Blocking: 0.0 | Time: 49.40s
+Started test 29200: Number of agents: 5, World size: 30, Obstacle probability: 0.28
+[EPISODE 29200] Success: False | Steps: 256 || Collisions: 66.0 | | Reward: -198.08000000000055 | On Goal: 45.6 | Blocking: 0.0 | Time: 44.15s
+Started test 9700: Number of agents: 5, World size: 30, Obstacle probability: 0.21
+[EPISODE 9700] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -77.22 | On Goal: 0.0 | Blocking: 0.0 | Time: 41.00s
+Started test 29300: Number of agents: 5, World size: 10, Obstacle probability: 0.24
+[EPISODE 29300] Success: False | Steps: 256 || Collisions: 0.8 | | Reward: -118.32000000000005 | On Goal: 202.0 | Blocking: 0.0 | Time: 33.71s
+Started test 29400: Number of agents: 5, World size: 70, Obstacle probability: 0.14
+[EPISODE 29400] Success: True | Steps: 93 || Collisions: 0.0 | | Reward: -19.580000000000013 | On Goal: 41.2 | Blocking: 0.0 | Time: 17.50s
+Started test 29500: Number of agents: 5, World size: 10, Obstacle probability: 0.28
+[EPISODE 29500] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -117.80000000000004 | On Goal: 202.4 | Blocking: 0.0 | Time: 31.98s
+Started test 9800: Number of agents: 5, World size: 40, Obstacle probability: 0.12
+[EPISODE 9800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -84.51999999999961 | On Goal: 38.8 | Blocking: 0.0 | Time: 42.48s
+Started test 29600: Number of agents: 5, World size: 40, Obstacle probability: 0.15
+[EPISODE 29600] Success: True | Steps: 46 || Collisions: 0.0 | | Reward: -11.819999999999997 | On Goal: 11.4 | Blocking: 0.0 | Time: 7.02s
+Started test 29700: Number of agents: 5, World size: 10, Obstacle probability: 0.20
+[EPISODE 29700] Success: True | Steps: 10 || Collisions: 0.2 | | Reward: 4.300000000000001 | On Goal: 3.6 | Blocking: 0.0 | Time: 1.44s
+Started test 29800: Number of agents: 5, World size: 30, Obstacle probability: 0.29
+[EPISODE 29800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -105.60000000000048 | On Goal: 144.6 | Blocking: 0.0 | Time: 41.12s
+Started test 29900: Number of agents: 5, World size: 20, Obstacle probability: 0.20
+[EPISODE 29900] Success: False | Steps: 256 || Collisions: 49.4 | | Reward: -199.45999999999998 | On Goal: 194.2 | Blocking: 0.0 | Time: 37.48s
+Started test 9900: Number of agents: 5, World size: 10, Obstacle probability: 0.28
+[EPISODE 9900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -106.76000000000049 | On Goal: 150.4 | Blocking: 0.0 | Time: 34.95s
+Started test 10000: Number of agents: 5, World size: 30, Obstacle probability: 0.13
+[EPISODE 10000] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -89.7799999999996 | On Goal: 31.8 | Blocking: 0.0 | Time: 41.33s
+Started test 10100: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 10100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.75999999999996 | On Goal: 0.0 | Blocking: 0.0 | Time: 45.96s
+Started test 10200: Number of agents: 5, World size: 70, Obstacle probability: 0.28
+[EPISODE 10200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -98.40000000000018 | On Goal: 108.6 | Blocking: 0.0 | Time: 49.89s
+Started test 10300: Number of agents: 5, World size: 30, Obstacle probability: 0.19
+[EPISODE 10300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -105.32000000000048 | On Goal: 140.4 | Blocking: 0.0 | Time: 40.82s
+Started test 10400: Number of agents: 5, World size: 20, Obstacle probability: 0.16
+[EPISODE 10400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -115.4800000000001 | On Goal: 194.0 | Blocking: 0.0 | Time: 38.05s
+Started test 10500: Number of agents: 5, World size: 60, Obstacle probability: 0.20
+[EPISODE 10500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -83.15999999999964 | On Goal: 32.0 | Blocking: 0.0 | Time: 45.85s
+Started test 10600: Number of agents: 5, World size: 60, Obstacle probability: 0.28
+[EPISODE 10600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 48.66s
+Started test 10700: Number of agents: 5, World size: 40, Obstacle probability: 0.21
+[EPISODE 10700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.83999999999962 | On Goal: 50.2 | Blocking: 0.0 | Time: 41.62s
+Started test 10800: Number of agents: 5, World size: 70, Obstacle probability: 0.19
+[EPISODE 10800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 49.20s
+Started test 10900: Number of agents: 5, World size: 20, Obstacle probability: 0.13
+[EPISODE 10900] Success: False | Steps: 256 || Collisions: 0.8 | | Reward: -116.28000000000009 | On Goal: 191.4 | Blocking: 0.0 | Time: 38.69s
+Started test 11000: Number of agents: 5, World size: 60, Obstacle probability: 0.27
+[EPISODE 11000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -92.15999999999958 | On Goal: 77.0 | Blocking: 0.0 | Time: 46.31s
+Started test 11100: Number of agents: 5, World size: 60, Obstacle probability: 0.24
+[EPISODE 11100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 46.54s
+Started test 11200: Number of agents: 5, World size: 40, Obstacle probability: 0.17
+[EPISODE 11200] Success: False | Steps: 256 || Collisions: 50.2 | | Reward: -181.98000000000064 | On Goal: 95.0 | Blocking: 0.0 | Time: 40.78s
+Started test 11300: Number of agents: 5, World size: 10, Obstacle probability: 0.20
+[EPISODE 11300] Success: True | Steps: 35 || Collisions: 0.0 | | Reward: 6.520000000000005 | On Goal: 18.2 | Blocking: 0.0 | Time: 4.71s
+Started test 11400: Number of agents: 5, World size: 50, Obstacle probability: 0.13
+[EPISODE 11400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -85.79999999999963 | On Goal: 45.0 | Blocking: 0.0 | Time: 40.52s
+Started test 11500: Number of agents: 5, World size: 30, Obstacle probability: 0.19
+[EPISODE 11500] Success: False | Steps: 256 || Collisions: 2.6 | | Reward: -114.74000000000008 | On Goal: 165.6 | Blocking: 0.0 | Time: 41.30s
+Started test 11600: Number of agents: 5, World size: 20, Obstacle probability: 0.13
+[EPISODE 11600] Success: True | Steps: 184 || Collisions: 0.6 | | Reward: -59.680000000000135 | On Goal: 79.6 | Blocking: 0.0 | Time: 26.61s
+Started test 11700: Number of agents: 5, World size: 70, Obstacle probability: 0.14
+[EPISODE 11700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -81.55999999999973 | On Goal: 23.8 | Blocking: 0.0 | Time: 41.77s
+Started test 11800: Number of agents: 5, World size: 30, Obstacle probability: 0.13
+[EPISODE 11800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -93.5999999999996 | On Goal: 84.4 | Blocking: 0.0 | Time: 37.38s
+Started test 11900: Number of agents: 5, World size: 30, Obstacle probability: 0.17
+[EPISODE 11900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -104.48000000000052 | On Goal: 137.6 | Blocking: 0.0 | Time: 38.56s
+Started test 12000: Number of agents: 5, World size: 60, Obstacle probability: 0.29
+[EPISODE 12000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.63999999999962 | On Goal: 49.2 | Blocking: 0.0 | Time: 46.03s
+Started test 12100: Number of agents: 5, World size: 10, Obstacle probability: 0.18
+[EPISODE 12100] Success: True | Steps: 29 || Collisions: 0.0 | | Reward: 8.84 | On Goal: 15.6 | Blocking: 0.0 | Time: 3.55s
+Started test 12200: Number of agents: 5, World size: 70, Obstacle probability: 0.14
+[EPISODE 12200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 41.69s
+Started test 12300: Number of agents: 5, World size: 60, Obstacle probability: 0.21
+[EPISODE 12300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.27999999999963 | On Goal: 47.2 | Blocking: 0.0 | Time: 45.36s
+Started test 12400: Number of agents: 5, World size: 70, Obstacle probability: 0.25
+[EPISODE 12400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 47.54s
+Started test 12500: Number of agents: 5, World size: 10, Obstacle probability: 0.29
+[EPISODE 12500] Success: True | Steps: 26 || Collisions: 2.0 | | Reward: -9.699999999999998 | On Goal: 13.8 | Blocking: 0.0 | Time: 3.20s
+Started test 12600: Number of agents: 5, World size: 50, Obstacle probability: 0.25
+[EPISODE 12600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 40.53s
+Started test 12700: Number of agents: 5, World size: 60, Obstacle probability: 0.10
+[EPISODE 12700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -94.3599999999996 | On Goal: 88.2 | Blocking: 0.0 | Time: 41.54s
+Started test 12800: Number of agents: 5, World size: 70, Obstacle probability: 0.24
+[EPISODE 12800] Success: False | Steps: 256 || Collisions: 51.2 | | Reward: -163.8400000000006 | On Goal: 0.0 | Blocking: 0.0 | Time: 47.03s
+Started test 12900: Number of agents: 5, World size: 50, Obstacle probability: 0.18
+[EPISODE 12900] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -77.63999999999999 | On Goal: 0.0 | Blocking: 0.0 | Time: 40.92s
+Started test 13000: Number of agents: 5, World size: 50, Obstacle probability: 0.16
+[EPISODE 13000] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -83.87999999999963 | On Goal: 35.4 | Blocking: 0.0 | Time: 46.04s
+Started test 13100: Number of agents: 5, World size: 20, Obstacle probability: 0.16
+[EPISODE 13100] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -111.14000000000007 | On Goal: 170.6 | Blocking: 0.0 | Time: 42.23s
+Started test 13200: Number of agents: 5, World size: 60, Obstacle probability: 0.25
+[EPISODE 13200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -83.07999999999966 | On Goal: 31.2 | Blocking: 0.0 | Time: 52.40s
+Started test 13300: Number of agents: 5, World size: 10, Obstacle probability: 0.21
+[EPISODE 13300] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -116.16000000000011 | On Goal: 197.6 | Blocking: 0.0 | Time: 37.07s
+Started test 13400: Number of agents: 5, World size: 40, Obstacle probability: 0.15
+[EPISODE 13400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -100.88000000000059 | On Goal: 121.0 | Blocking: 0.0 | Time: 47.57s
+Started test 13500: Number of agents: 5, World size: 40, Obstacle probability: 0.28
+[EPISODE 13500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.23999999999998 | On Goal: 0.0 | Blocking: 0.0 | Time: 50.73s
+Started test 13600: Number of agents: 5, World size: 10, Obstacle probability: 0.14
+[EPISODE 13600] Success: False | Steps: 256 || Collisions: 0.2 | | Reward: -114.82000000000009 | On Goal: 189.2 | Blocking: 0.0 | Time: 34.85s
+Started test 13700: Number of agents: 5, World size: 30, Obstacle probability: 0.19
+[EPISODE 13700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -96.83999999999955 | On Goal: 100.6 | Blocking: 0.0 | Time: 43.49s
+Started test 13800: Number of agents: 5, World size: 30, Obstacle probability: 0.30
+[EPISODE 13800] Success: False | Steps: 256 || Collisions: 88.8 | | Reward: -227.9599999999998 | On Goal: 0.0 | Blocking: 0.0 | Time: 43.72s
+Started test 13900: Number of agents: 5, World size: 20, Obstacle probability: 0.28
+[EPISODE 13900] Success: False | Steps: 256 || Collisions: 44.0 | | Reward: -179.59999999999934 | On Goal: 136.8 | Blocking: 0.0 | Time: 44.01s
+Started test 14000: Number of agents: 5, World size: 50, Obstacle probability: 0.23
+[EPISODE 14000] Success: False | Steps: 256 || Collisions: 0.4 | | Reward: -79.83999999999986 | On Goal: 10.6 | Blocking: 0.0 | Time: 50.50s
+Started test 14100: Number of agents: 5, World size: 30, Obstacle probability: 0.24
+[EPISODE 14100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -94.79999999999959 | On Goal: 90.4 | Blocking: 0.0 | Time: 43.98s
+Started test 14200: Number of agents: 5, World size: 30, Obstacle probability: 0.11
+[EPISODE 14200] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -101.88000000000058 | On Goal: 125.8 | Blocking: 0.0 | Time: 42.89s
+Started test 14300: Number of agents: 5, World size: 10, Obstacle probability: 0.21
+[EPISODE 14300] Success: False | Steps: 256 || Collisions: 3.8 | | Reward: -114.50000000000048 | On Goal: 153.2 | Blocking: 0.0 | Time: 35.37s
+Started test 14400: Number of agents: 5, World size: 10, Obstacle probability: 0.29
+[EPISODE 14400] Success: False | Steps: 256 || Collisions: 0.8 | | Reward: -116.28000000000009 | On Goal: 190.8 | Blocking: 0.0 | Time: 37.52s
+Started test 14500: Number of agents: 5, World size: 30, Obstacle probability: 0.26
+[EPISODE 14500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.71999999999963 | On Goal: 49.2 | Blocking: 0.0 | Time: 48.38s
+Started test 14600: Number of agents: 5, World size: 20, Obstacle probability: 0.21
+[EPISODE 14600] Success: False | Steps: 256 || Collisions: 51.0 | | Reward: -182.34000000000077 | On Goal: 94.4 | Blocking: 0.0 | Time: 40.05s
+Started test 14700: Number of agents: 5, World size: 60, Obstacle probability: 0.24
+[EPISODE 14700] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 49.98s
+Started test 14800: Number of agents: 5, World size: 50, Obstacle probability: 0.24
+[EPISODE 14800] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -86.55999999999963 | On Goal: 49.0 | Blocking: 0.0 | Time: 48.94s
+Started test 14900: Number of agents: 5, World size: 50, Obstacle probability: 0.29
+[EPISODE 14900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -95.67999999999958 | On Goal: 94.8 | Blocking: 0.0 | Time: 47.81s
+Started test 15000: Number of agents: 5, World size: 20, Obstacle probability: 0.20
+[EPISODE 15000] Success: False | Steps: 256 || Collisions: 18.6 | | Reward: -122.30000000000022 | On Goal: 69.2 | Blocking: 0.0 | Time: 38.40s
+Started test 15100: Number of agents: 5, World size: 50, Obstacle probability: 0.23
+[EPISODE 15100] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -94.3999999999996 | On Goal: 88.4 | Blocking: 0.0 | Time: 39.72s
+Started test 15200: Number of agents: 5, World size: 40, Obstacle probability: 0.25
+[EPISODE 15200] Success: False | Steps: 256 || Collisions: 0.6 | | Reward: -77.94 | On Goal: 0.0 | Blocking: 0.0 | Time: 41.08s
+Started test 15300: Number of agents: 5, World size: 20, Obstacle probability: 0.22
+[EPISODE 15300] Success: False | Steps: 256 || Collisions: 41.8 | | Reward: -157.77999999999935 | On Goal: 49.8 | Blocking: 0.0 | Time: 38.88s
+Started test 15400: Number of agents: 5, World size: 60, Obstacle probability: 0.14
+[EPISODE 15400] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -76.8 | On Goal: 0.0 | Blocking: 0.0 | Time: 45.15s
+Started test 15500: Number of agents: 5, World size: 40, Obstacle probability: 0.17
+[EPISODE 15500] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -101.52000000000052 | On Goal: 124.2 | Blocking: 0.0 | Time: 40.55s
+Started test 15600: Number of agents: 5, World size: 70, Obstacle probability: 0.25
+[EPISODE 15600] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -77.71999999999996 | On Goal: 3.4 | Blocking: 0.0 | Time: 48.44s
+Started test 15700: Number of agents: 5, World size: 30, Obstacle probability: 0.20
+[EPISODE 15700] Success: False | Steps: 256 || Collisions: 36.0 | | Reward: -166.2799999999998 | On Goal: 142.0 | Blocking: 0.0 | Time: 40.82s
+Started test 15800: Number of agents: 5, World size: 30, Obstacle probability: 0.26
+[EPISODE 15800] Success: False | Steps: 256 || Collisions: 44.4 | | Reward: -162.23999999999933 | On Goal: 50.0 | Blocking: 0.0 | Time: 39.60s
+Started test 15900: Number of agents: 5, World size: 20, Obstacle probability: 0.18
+[EPISODE 15900] Success: False | Steps: 256 || Collisions: 0.0 | | Reward: -104.24000000000042 | On Goal: 138.0 | Blocking: 0.0 | Time: 34.95s
+Started test 16000: Number of agents: 5, World size: 60, Obstacle probability: 0.29
+[EPISODE 16000] Success: False | Steps: 256 || Collisions: 51.0 | | Reward: -163.54000000000062 | On Goal: 0.0 | Blocking: 0.0 | Time: 33.85s
+Started test 16100: Number of agents: 5, World size: 30, Obstacle probability: 0.21
+[EPISODE 16100] Success: False | Steps: 256 || Collisions: 31.6 | | Reward: -148.56000000000066 | On Goal: 90.6 | Blocking: 0.0 | Time: 29.84s

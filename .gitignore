@@ -3,3 +3,4 @@ __pycache__
 misc
 model-313300.cptk.data-00000-of-00001
 *.o 
+optimizer*.pt
