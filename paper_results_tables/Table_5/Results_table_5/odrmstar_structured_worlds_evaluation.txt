@@ -1,0 +1,29 @@
+Structured_world_1
+
+[Started experiment run 1] Agents: 50 | Grid: 70 | ObsProb: 0.00
+[EPISODE 1] Success: True | Steps: 145 | Runtime_sec: 0.2758
+[Started experiment run 2] Agents: 100 | Grid: 70 | ObsProb: 0.00
+[EPISODE 2] Success: True | Steps: 167 | Runtime_sec: 6.8585
+
+ALL EXPERIMENTS DONE
+Success_rate: 100.0%
+
+Structured_world_2
+
+[Started experiment run 1] Agents: 50 | Grid: 70 | ObsProb: 0.00
+[EPISODE 1] Success: True | Steps: 108 | Runtime_sec: 0.3213
+[Started experiment run 2] Agents: 100 | Grid: 70 | ObsProb: 0.00
+[EPISODE 2] Success: False | Steps: None | Runtime_sec: 63.0091 | Failure_reason: std::bad_alloc
+
+ALL EXPERIMENTS DONE
+Success_rate: 50.0%
+
+Structured_world_3
+
+[Started experiment run 1] Agents: 50 | Grid: 70 | ObsProb: 0.00
+[EPISODE 1] Success: True | Steps: 102 | Runtime_sec: 0.2037
+[Started experiment run 2] Agents: 100 | Grid: 70 | ObsProb: 0.00
+[EPISODE 2] Success: True | Steps: 112 | Runtime_sec: 0.3648
+
+ALL EXPERIMENTS DONE
+Success_rate: 100.0%

@@ -1,0 +1,36 @@
+Started Experiment 1: Number of agents: 250, World size: 70, Obstacle probability: 0.00
+[EPISODE 1] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 248/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: 21.336400000000182 | On Goal: 1.7593760000000118 | Blocking: 0.024224000000000016 | Time: 5033.00s
+Started Experiment 2: Number of agents: 250, World size: 70, Obstacle probability: 0.10
+[EPISODE 2] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 248/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: 19.590840000000114 | On Goal: 1.7425760000000095 | Blocking: 0.02449600000000002 | Time: 4804.09s
+Started Experiment 3: Number of agents: 250, World size: 70, Obstacle probability: 0.20
+[EPISODE 3] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 240/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: 5.012160000000045 | On Goal: 1.6233759999999906 | Blocking: 0.09121599999999964 | Time: 4958.49s
+Started Experiment 4: Number of agents: 500, World size: 70, Obstacle probability: 0.00
+[EPISODE 4] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 494/500 |Robot: 0.0 | Obstacle: 0.0 || Reward: -3.5918399999997663 | On Goal: 0.7736119999999994 | Blocking: 0.01894399999999979 | Time: 16074.62s
+Started Experiment 5: Number of agents: 500, World size: 70, Obstacle probability: 0.10
+[EPISODE 5] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 491/500 |Robot: 0.0 | Obstacle: 0.0 || Reward: -0.5800199999997208 | On Goal: 0.7876720000000026 | Blocking: 0.05015599999999999 | Time: 15571.34s
+Started Experiment 6: Number of agents: 500, World size: 70, Obstacle probability: 0.20
+[EPISODE 6] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 470/500 |Robot: 0.0 | Obstacle: 0.0 || Reward: -19.436479999999854 | On Goal: 0.7090359999999993 | Blocking: 0.09662800000000013 | Time: 15534.93s
+Started Experiment 7: Number of agents: 750, World size: 70, Obstacle probability: 0.00
+[EPISODE 7] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 474/750 |Robot: 0.0 | Obstacle: 0.0 || Reward: -92.50845333333403 | On Goal: 0.3224586666666655 | Blocking: 0.022318222222222184 | Time: 30749.35s
+Started Experiment 8: Number of agents: 750, World size: 70, Obstacle probability: 0.10
+[EPISODE 8] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 622/750 |Robot: 0.0 | Obstacle: 0.0 || Reward: -53.95804000000025 | On Goal: 0.4020942222222227 | Blocking: 0.04711822222222224 | Time: 47733.82s
+Started Experiment 9: Number of agents: 750, World size: 70, Obstacle probability: 0.20
+[EPISODE 9] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 556/750 |Robot: 0.0 | Obstacle: 0.0 || Reward: -72.26282666666684 | On Goal: 0.35238222222222243 | Blocking: 0.05532088888888884 | Time: 46016.03s
+Started Experiment 10: Number of agents: 1000, World size: 70, Obstacle probability: 0.00
+[EPISODE 10] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 476/1000 |Robot: 0.0 | Obstacle: 0.0 || Reward: -132.68770000000097 | On Goal: 0.1822660000000003 | Blocking: 0.009717000000000005 | Time: 44621.37s
+Started Experiment 11: Number of agents: 1000, World size: 70, Obstacle probability: 0.10
+[EPISODE 11] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 551/1000 |Robot: 0.0 | Obstacle: 0.0 || Reward: -116.95212000000099 | On Goal: 0.20474399999999968 | Blocking: 0.02372599999999996 | Time: 44413.97s
+Started Experiment 12: Number of agents: 1000, World size: 70, Obstacle probability: 0.20
+[EPISODE 12] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 521/1000 |Robot: 0.0 | Obstacle: 0.0 || Reward: -120.85308000000111 | On Goal: 0.18942199999999976 | Blocking: 0.03867299999999997 | Time: 45016.70s
+
+ALL EXPERIMENTS DONE
+Success Rate: 0.00%
+Collision Rate: 0.00%
+Avg Steps per Episode: 512.00
+Overall Agent Completion Rate: 71.9%
+Avg Reward per Step: -0.0666
+Avg On Goal per Step: 0.0004
+Avg Blocking per Step: 0.0000
+Avg Robot Collisions per Step: 0.0000
+Avg Obstacle Collisions per Step: 0.0000
+
