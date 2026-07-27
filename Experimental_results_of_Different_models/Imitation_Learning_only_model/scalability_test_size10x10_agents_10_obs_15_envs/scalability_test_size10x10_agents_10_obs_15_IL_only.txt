@@ -1,0 +1,76 @@
+Started Experiment 1: Number of agents: 5, World size: 10, Obstacle probability: 0.10
+[EPISODE 1] Success: True | Steps: 7 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.02 | On Goal: 3.6 | Blocking: 0.0 | Time: 1.37s
+Started Experiment 2: Number of agents: 5, World size: 10, Obstacle probability: 0.02
+[EPISODE 2] Success: False | Steps: 256 || Collisions: 50.0 | Robot: 50.0 | Obstacle: 0.0 || Reward: -151.64000000000001 | On Goal: 201.2 | Blocking: 50.2 | Time: 48.70s
+Started Experiment 3: Number of agents: 10, World size: 10, Obstacle probability: 0.02
+[EPISODE 3] Success: False | Steps: 256 || Collisions: 50.7 | Robot: 50.7 | Obstacle: 0.0 || Reward: -104.3 | On Goal: 199.5 | Blocking: 1.1 | Time: 102.33s
+Started Experiment 4: Number of agents: 10, World size: 10, Obstacle probability: 0.00
+[EPISODE 4] Success: False | Steps: 256 || Collisions: 75.5 | Robot: 75.5 | Obstacle: 0.0 || Reward: -253.04000000000002 | On Goal: 175.9 | Blocking: 75.4 | Time: 114.69s
+Started Experiment 5: Number of agents: 5, World size: 10, Obstacle probability: 0.00
+[EPISODE 5] Success: False | Steps: 256 || Collisions: 102.2 | Robot: 102.2 | Obstacle: 0.0 || Reward: -206.2 | On Goal: 147.8 | Blocking: 0.0 | Time: 55.78s
+Started Experiment 6: Number of agents: 5, World size: 10, Obstacle probability: 0.07
+[EPISODE 6] Success: True | Steps: 13 || Collisions: 0.2 | Robot: 0.2 | Obstacle: 0.0 || Reward: -2.1400000000000006 | On Goal: 7.0 | Blocking: 0.0 | Time: 3.58s
+Started Experiment 7: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 7] Success: True | Steps: 7 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.3800000000000001 | On Goal: 2.4 | Blocking: 0.0 | Time: 1.43s
+Started Experiment 8: Number of agents: 10, World size: 10, Obstacle probability: 0.07
+[EPISODE 8] Success: False | Steps: 256 || Collisions: 50.0 | Robot: 50.0 | Obstacle: 0.0 || Reward: -151.23 | On Goal: 201.3 | Blocking: 49.8 | Time: 104.27s
+Started Experiment 9: Number of agents: 10, World size: 10, Obstacle probability: 0.15
+[EPISODE 9] Success: False | Steps: 256 || Collisions: 75.4 | Robot: 75.4 | Obstacle: 0.0 || Reward: -177.41 | On Goal: 175.9 | Blocking: 25.2 | Time: 104.66s
+Started Experiment 10: Number of agents: 10, World size: 10, Obstacle probability: 0.10
+[EPISODE 10] Success: False | Steps: 256 || Collisions: 50.6 | Robot: 50.6 | Obstacle: 0.0 || Reward: -127.80999999999999 | On Goal: 200.7 | Blocking: 25.2 | Time: 102.53s
+Started Experiment 11: Number of agents: 10, World size: 10, Obstacle probability: 0.05
+[EPISODE 11] Success: False | Steps: 256 || Collisions: 24.7 | Robot: 24.7 | Obstacle: 0.0 || Reward: -76.14 | On Goal: 225.5 | Blocking: 25.0 | Time: 91.91s
+Started Experiment 12: Number of agents: 5, World size: 10, Obstacle probability: 0.12
+[EPISODE 12] Success: False | Steps: 256 || Collisions: 102.8 | Robot: 102.8 | Obstacle: 0.0 || Reward: -307.06 | On Goal: 151.6 | Blocking: 50.4 | Time: 51.09s
+Started Experiment 13: Number of agents: 5, World size: 10, Obstacle probability: 0.05
+[EPISODE 13] Success: False | Steps: 256 || Collisions: 102.2 | Robot: 102.2 | Obstacle: 0.0 || Reward: -205.71999999999997 | On Goal: 149.4 | Blocking: 0.0 | Time: 47.14s
+Started Experiment 14: Number of agents: 10, World size: 10, Obstacle probability: 0.12
+[EPISODE 14] Success: False | Steps: 256 || Collisions: 50.8 | Robot: 50.8 | Obstacle: 0.0 || Reward: -166.20999999999998 | On Goal: 174.5 | Blocking: 50.2 | Time: 100.37s
+
+ALL EXPERIMENTS DONE
+Success Rate: 21.43%
+Collision Rate: 25.86%
+Avg Steps per Episode: 203.07
+Avg Reward per Step: -0.6793
+Avg On Goal per Step: 0.7092
+Avg Blocking per Step: 0.1240
+Avg Robot Collisions per Step: 0.2586
+Avg Obstacle Collisions per Step: 0.0000
+Started Experiment 1: Number of agents: 5, World size: 10, Obstacle probability: 0.10
+[EPISODE 1] Success: True | Steps: 7 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.02 | On Goal: 3.6 | Blocking: 0.0 | Time: 1.16s
+Started Experiment 2: Number of agents: 5, World size: 10, Obstacle probability: 0.02
+[EPISODE 2] Success: True | Steps: 11 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.8800000000000008 | On Goal: 5.4 | Blocking: 0.2 | Time: 1.82s
+Started Experiment 3: Number of agents: 10, World size: 10, Obstacle probability: 0.02
+[EPISODE 3] Success: True | Steps: 14 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.8000000000000003 | On Goal: 8.2 | Blocking: 0.0 | Time: 4.90s
+Started Experiment 4: Number of agents: 10, World size: 10, Obstacle probability: 0.00
+[EPISODE 4] Success: True | Steps: 12 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -2.5300000000000002 | On Goal: 5.7 | Blocking: 0.5 | Time: 5.06s
+Started Experiment 5: Number of agents: 5, World size: 10, Obstacle probability: 0.00
+[EPISODE 5] Success: True | Steps: 16 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -2.420000000000001 | On Goal: 8.6 | Blocking: 0.2 | Time: 2.84s
+Started Experiment 6: Number of agents: 5, World size: 10, Obstacle probability: 0.07
+[EPISODE 6] Success: True | Steps: 13 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.8600000000000005 | On Goal: 6.8 | Blocking: 0.0 | Time: 2.13s
+Started Experiment 7: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 7] Success: True | Steps: 7 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.3800000000000001 | On Goal: 2.4 | Blocking: 0.0 | Time: 1.76s
+Started Experiment 8: Number of agents: 10, World size: 10, Obstacle probability: 0.07
+[EPISODE 8] Success: False | Steps: 256 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -39.06 | On Goal: 226.0 | Blocking: 25.1 | Time: 94.23s
+Started Experiment 9: Number of agents: 10, World size: 10, Obstacle probability: 0.15
+[EPISODE 9] Success: True | Steps: 16 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -2.56 | On Goal: 9.0 | Blocking: 0.4 | Time: 7.06s
+Started Experiment 10: Number of agents: 10, World size: 10, Obstacle probability: 0.10
+[EPISODE 10] Success: True | Steps: 12 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.95 | On Goal: 5.9 | Blocking: 0.1 | Time: 4.05s
+Started Experiment 11: Number of agents: 10, World size: 10, Obstacle probability: 0.05
+[EPISODE 11] Success: True | Steps: 18 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -2.4000000000000004 | On Goal: 11.4 | Blocking: 0.4 | Time: 5.97s
+Started Experiment 12: Number of agents: 5, World size: 10, Obstacle probability: 0.12
+[EPISODE 12] Success: False | Steps: 256 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -72.26000000000018 | On Goal: 201.8 | Blocking: 51.0 | Time: 49.82s
+Started Experiment 13: Number of agents: 5, World size: 10, Obstacle probability: 0.05
+[EPISODE 13] Success: True | Steps: 10 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -1.6199999999999999 | On Goal: 4.6 | Blocking: 0.0 | Time: 1.73s
+Started Experiment 14: Number of agents: 10, World size: 10, Obstacle probability: 0.12
+[EPISODE 14] Success: True | Steps: 15 || Collisions: 0.0 | Robot: 0.0 | Obstacle: 0.0 || Reward: -2.64 | On Goal: 8.4 | Blocking: 0.6 | Time: 5.88s
+
+ALL EXPERIMENTS DONE
+Success Rate: 85.71%
+Collision Rate: 0.00%
+Avg Steps per Episode: 47.36
+Avg Reward per Step: -0.2042
+Avg On Goal per Step: 0.7659
+Avg Blocking per Step: 0.1184
+Avg Robot Collisions per Step: 0.0000
+Avg Obstacle Collisions per Step: 0.0000

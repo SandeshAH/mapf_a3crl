@@ -1,0 +1,42 @@
+
+Restoring parameters from model_primal/model-313300.cptk
+Started Experiment 1: Number of agents: 10, World size: 10, Obstacle probability: 0.00
+[EPISODE 1] Success: False | Steps: 256 || Collisions: 0.4 | Robot: 0.4| Obstacle: 0.0 ||Reward: -39.48999999999987 | On Goal: 130.5 | Blocking: 0.0 | Time: 67.08s
+Started Experiment 2: Number of agents: 10, World size: 10, Obstacle probability: 0.02
+[EPISODE 2] Success: True | Steps: 137 || Collisions: 0.8 | Robot: 0.8| Obstacle: 0.0 ||Reward: -22.980000000000008 | On Goal: 69.7 | Blocking: 0.0 | Time: 33.60s
+Started Experiment 3: Number of agents: 10, World size: 10, Obstacle probability: 0.05
+[EPISODE 3] Success: False | Steps: 256 || Collisions: 0.7 | Robot: 0.7| Obstacle: 0.0 ||Reward: -49.660000000000174 | On Goal: 95.3 | Blocking: 0.0 | Time: 58.91s
+Started Experiment 4: Number of agents: 10, World size: 10, Obstacle probability: 0.07
+[EPISODE 4] Success: False | Steps: 256 || Collisions: 0.7 | Robot: 0.7| Obstacle: 0.0 ||Reward: -43.070000000000064 | On Goal: 117.1 | Blocking: 0.0 | Time: 72.68s
+Started Experiment 5: Number of agents: 10, World size: 10, Obstacle probability: 0.10
+[EPISODE 5] Success: False | Steps: 256 || Collisions: 0.1 | Robot: 0.1| Obstacle: 0.0 ||Reward: -19.590000000000046 | On Goal: 191.6 | Blocking: 0.0 | Time: 87.89s
+Started Experiment 6: Number of agents: 10, World size: 10, Obstacle probability: 0.12
+[EPISODE 6] Success: False | Steps: 256 || Collisions: 0.7 | Robot: 0.7| Obstacle: 0.0 ||Reward: -40.329999999999956 | On Goal: 131.7 | Blocking: 0.0 | Time: 95.69s
+Started Experiment 7: Number of agents: 10, World size: 10, Obstacle probability: 0.15
+[EPISODE 7] Success: False | Steps: 256 || Collisions: 1.0 | Robot: 1.0| Obstacle: 0.0 ||Reward: -23.77999999999995 | On Goal: 183.4 | Blocking: 0.0 | Time: 95.94s
+Started Experiment 8: Number of agents: 5, World size: 10, Obstacle probability: 0.00
+[EPISODE 8] Success: False | Steps: 256 || Collisions: 0.0 | Robot: 0.0| Obstacle: 0.0 ||Reward: -47.57999999999989 | On Goal: 99.8 | Blocking: 0.0 | Time: 49.45s
+Started Experiment 9: Number of agents: 5, World size: 10, Obstacle probability: 0.02
+[EPISODE 9] Success: True | Steps: 39 || Collisions: 0.6 | Robot: 0.6| Obstacle: 0.0 ||Reward: -7.119999999999999 | On Goal: 19.2 | Blocking: 0.0 | Time: 7.30s
+Started Experiment 10: Number of agents: 5, World size: 10, Obstacle probability: 0.05
+[EPISODE 10] Success: False | Steps: 256 || Collisions: 0.6 | Robot: 0.6| Obstacle: 0.0 ||Reward: -41.17999999999993 | On Goal: 123.0 | Blocking: 0.0 | Time: 49.18s
+Started Experiment 11: Number of agents: 5, World size: 10, Obstacle probability: 0.07
+[EPISODE 11] Success: False | Steps: 256 || Collisions: 0.0 | Robot: 0.0| Obstacle: 0.0 ||Reward: -57.959999999999845 | On Goal: 62.8 | Blocking: 0.0 | Time: 47.86s
+Started Experiment 12: Number of agents: 5, World size: 10, Obstacle probability: 0.10
+[EPISODE 12] Success: False | Steps: 256 || Collisions: 0.0 | Robot: 0.0| Obstacle: 0.0 ||Reward: -24.15999999999989 | On Goal: 176.0 | Blocking: 0.0 | Time: 50.07s
+Started Experiment 13: Number of agents: 5, World size: 10, Obstacle probability: 0.12
+[EPISODE 13] Success: False | Steps: 256 || Collisions: 0.4 | Robot: 0.4| Obstacle: 0.0 ||Reward: -25.379999999999878 | On Goal: 175.8 | Blocking: 0.6 | Time: 49.84s
+Started Experiment 14: Number of agents: 5, World size: 10, Obstacle probability: 0.15
+[EPISODE 14] Success: False | Steps: 256 || Collisions: 0.2 | Robot: 0.2| Obstacle: 0.0 ||Reward: -36.51999999999999 | On Goal: 139.8 | Blocking: 0.0 | Time: 49.15s
+================================================================================
+🎓 Summary of 14 Experiments Completed
+--------------------------------------------------------------------------------
+✔️ Success Rate       : 14.29%
+💥 Collision Rate     : 0.19%
+🚶 Avg Steps/Episode   : 232.00
+🏆 Avg Reward/Step     : -0.1474
+🎯 Avg On-Goal/Step    : 0.5282
+🚧 Avg Blocking/Step   : 0.0002
+🤖 Avg Robot Collisions    : 0.0019
+🧱 Avg Obstacle Collisions : 0.0000
+================================================================================

@@ -1,0 +1,27 @@
+[Started experiment run 1] Agents: 250 | Grid: 160 | ObsProb: 0.00
+[EPISODE 1] Success: True | Steps: 264 | Runtime_sec: 10.4404
+[Started experiment run 2] Agents: 250 | Grid: 160 | ObsProb: 0.10
+[EPISODE 2] Success: True | Steps: 281 | Runtime_sec: 7.8623
+[Started experiment run 3] Agents: 250 | Grid: 160 | ObsProb: 0.20
+[EPISODE 3] Success: True | Steps: 245 | Runtime_sec: 6.9779
+[Started experiment run 4] Agents: 500 | Grid: 160 | ObsProb: 0.00
+[EPISODE 4] Success: False | Steps: None | Runtime_sec: 11.3961 | Failure_reason: std::bad_alloc
+[Started experiment run 5] Agents: 500 | Grid: 160 | ObsProb: 0.10
+[EPISODE 5] Success: False | Steps: None | Runtime_sec: 11.2727 | Failure_reason: std::bad_alloc
+[Started experiment run 6] Agents: 500 | Grid: 160 | ObsProb: 0.20
+[EPISODE 6] Success: False | Steps: None | Runtime_sec: 11.8639 | Failure_reason: std::bad_alloc
+[Started experiment run 7] Agents: 750 | Grid: 160 | ObsProb: 0.00
+[EPISODE 7] Success: False | Steps: None | Runtime_sec: 12.1622 | Failure_reason: std::bad_alloc
+[Started experiment run 8] Agents: 750 | Grid: 160 | ObsProb: 0.10
+[EPISODE 8] Success: False | Steps: None | Runtime_sec: 11.1798 | Failure_reason: std::bad_alloc
+[Started experiment run 9] Agents: 750 | Grid: 160 | ObsProb: 0.20
+[EPISODE 9] Success: False | Steps: None | Runtime_sec: 11.6228 | Failure_reason: std::bad_alloc
+[Started experiment run 10] Agents: 1000 | Grid: 160 | ObsProb: 0.00
+[EPISODE 10] Success: False | Steps: None | Runtime_sec: 10.7181 | Failure_reason: std::bad_alloc
+[Started experiment run 11] Agents: 1000 | Grid: 160 | ObsProb: 0.10
+[EPISODE 11] Success: False | Steps: None | Runtime_sec: 11.2081 | Failure_reason: std::bad_alloc
+[Started experiment run 12] Agents: 1000 | Grid: 160 | ObsProb: 0.20
+[EPISODE 12] Success: False | Steps: None | Runtime_sec: 11.6522 | Failure_reason: std::bad_alloc
+
+ALL EXPERIMENTS DONE
+Success_rate: 25%

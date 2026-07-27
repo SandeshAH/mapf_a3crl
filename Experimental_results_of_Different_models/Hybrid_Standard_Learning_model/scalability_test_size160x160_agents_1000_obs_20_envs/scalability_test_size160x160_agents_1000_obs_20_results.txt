@@ -1,0 +1,76 @@
+RAW ACTION MODE
+
+Started Experiment 1: Number of agents: 250, World size: 160, Obstacle probability: 0.00
+[EPISODE 1] Success: False | Steps: 512 || Collisions: 3.996 | Agents Completed: 198/250 |Robot: 3.996 | Obstacle: 0.0 || Reward: -36.62875999999984 | On Goal: 1.2394399999999979 | Blocking: 0.0049280000000000036 | Time: 8964.15s
+Started Experiment 2: Number of agents: 250, World size: 160, Obstacle probability: 0.10
+[EPISODE 2] Success: False | Steps: 512 || Collisions: 0.452 | Agents Completed: 214/250 |Robot: 0.404 | Obstacle: 0.048 || Reward: -32.04679999999981 | On Goal: 1.2243839999999975 | Blocking: 0.002880000000000002 | Time: 8597.96s
+Started Experiment 3: Number of agents: 250, World size: 160, Obstacle probability: 0.20
+[EPISODE 3] Success: False | Steps: 512 || Collisions: 12.712 | Agents Completed: 169/250 |Robot: 0.504 | Obstacle: 12.208 || Reward: -86.11355999999986 | On Goal: 0.8979359999999994 | Blocking: 0.01913599999999993 | Time: 8295.41s
+Started Experiment 4: Number of agents: 500, World size: 160, Obstacle probability: 0.0
+[EPISODE 4] Success: False | Steps: 512 || Collisions: 4.972 | Agents Completed: 401/500 |Robot: 4.972 | Obstacle: 0.0 || Reward: -36.3524399999998 | On Goal: 0.6295800000000008 | Blocking: 0.001508000000000001 | Time: 31320.74s
+Started Experiment 5: Number of agents: 500, World size: 160, Obstacle probability: 0.10
+[EPISODE 5] Success: False | Steps: 512 || Collisions: 2.104 | Agents Completed: 458/500 |Robot: 0.938 | Obstacle: 1.166 || Reward: -32.888199999999834 | On Goal: 0.6230959999999987 | Blocking: 0.004523999999999985 | Time: 27198.70s
+Started Experiment 6: Number of agents: 500, World size: 160, Obstacle probability: 0.20
+[EPISODE 6] Success: False | Steps: 512 || Collisions: 6.738 | Agents Completed: 352/500 |Robot: 1.748 | Obstacle: 4.99 || Reward: -75.5560199999996 | On Goal: 0.45187599999999967 | Blocking: 0.011647999999999952 | Time: 25758.72s
+Started Experiment 7: Number of agents: 750, World size: 160, Obstacle probability: 0.00
+[EPISODE 7] Success: False | Steps: 512 || Collisions: 7.244 | Agents Completed: 599/750 |Robot: 7.244 | Obstacle: 0.0 || Reward: -44.484760000000136 | On Goal: 0.40651200000000054 | Blocking: 0.00338666666666667 | Time: 66874.29s
+Started Experiment 8: Number of agents: 750, World size: 160, Obstacle probability: 0.10
+[EPISODE 8] Success: False | Steps: 512 || Collisions: 3.7546666666666666 | Agents Completed: 682/750 |Robot: 2.552 | Obstacle: 1.2026666666666668 || Reward: -38.37812000000009 | On Goal: 0.4076160000000003 | Blocking: 0.005916444444444457 | Time: 55756.08s
+Started Experiment 9: Number of agents: 750, World size: 160, Obstacle probability: 0.20
+[EPISODE 9] Success: False | Steps: 512 || Collisions: 7.969333333333333 | Agents Completed: 570/750 |Robot: 3.0773333333333333 | Obstacle: 4.892 || Reward: -78.2985866666669 | On Goal: 0.3013831111111108 | Blocking: 0.01413688888888889 | Time: 51991.83s
+Started Experiment 10: Number of agents: 1000, World size: 160, Obstacle probability: 0.00
+[EPISODE 10] Success: False | Steps: 512 || Collisions: 10.311 | Agents Completed: 800/1000 |Robot: 10.311 | Obstacle: 0.0 || Reward: -53.07695000000042 | On Goal: 0.29707100000000036 | Blocking: 0.004420999999999985 | Time: 104416.40s
+Started Experiment 11: Number of agents: 1000, World size: 160, Obstacle probability: 0.10
+[EPISODE 11] Success: False | Steps: 512 || Collisions: 6.061 | Agents Completed: 904/1000 |Robot: 4.814 | Obstacle: 1.247 || Reward: -48.43861000000058 | On Goal: 0.2911880000000002 | Blocking: 0.0075009999999999825 | Time: 93969.80s
+Started Experiment 12: Number of agents: 1000, World size: 160, Obstacle probability: 0.20
+[EPISODE 12] Success: False | Steps: 512 || Collisions: 9.068 | Agents Completed: 747/1000 |Robot: 4.42 | Obstacle: 4.648 || Reward: -83.73977000000079 | On Goal: 0.21923600000000007 | Blocking: 0.01640599999999999 | Time: 86083.73s
+
+ALL EXPERIMENTS DONE
+Success Rate: 0.00%
+Collision Rate: 1.23%
+Avg Steps per Episode: 512.00
+Overall Agent Completion Rate: 81.25%
+Avg Reward per Step: -0.1051
+Avg On Goal per Step: 0.0011
+Avg Blocking per Step: 0.0000
+Avg Robot Collisions per Step: 0.0073
+Avg Obstacle Collisions per Step: 0.0049
+
+
+FILTERED ACTION MODE
+
+Started Experiment 1: Number of agents: 250, World size: 160, Obstacle probability: 0.00
+[EPISODE 1] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 200/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: -28.219039999999893 | On Goal: 1.2558559999999979 | Blocking: 0.0005760000000000004 | Time: 9391.29s
+Started Experiment 2: Number of agents: 250, World size: 160, Obstacle probability: 0.10
+[EPISODE 2] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 221/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: -30.689960000000042 | On Goal: 1.229808000000002 | Blocking: 0.0009440000000000006 | Time: 9159.99s
+Started Experiment 3: Number of agents: 250, World size: 160, Obstacle probability: 0.20
+[EPISODE 3] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 166/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: -62.68579999999985 | On Goal: 0.9150239999999987 | Blocking: 0.01273600000000001 | Time: 8618.25s
+Started Experiment 4: Number of agents: 500, World size: 160, Obstacle probability: 0.00
+[EPISODE 4] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 404/500 |Robot: 0.0 | Obstacle: 0.0 || Reward: -26.58945999999995 | On Goal: 0.6374119999999989 | Blocking: 0.0017160000000000014 | Time: 32354.50s
+Started Experiment 5: Number of agents: 500, World size: 160, Obstacle probability: 0.10
+[EPISODE 5] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 462/500 |Robot: 0.0 | Obstacle: 0.0 || Reward: -28.735279999999737 | On Goal: 0.6272040000000014 | Blocking: 0.006027999999999979 | Time: 29083.76s
+Started Experiment 6: Number of agents: 500, World size: 160, Obstacle probability: 0.20
+[EPISODE 6] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 366/500 |Robot: 0.0 | Obstacle: 0.0 || Reward: -62.42023999999966 | On Goal: 0.46148399999999906 | Blocking: 0.012899999999999957 | Time: 27342.59s
+Started Experiment 7: Number of agents: 750, World size: 160, Obstacle probability: 0.00
+[EPISODE 7] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 607/750 |Robot: 0.0 | Obstacle: 0.0 || Reward: -29.660706666666925 | On Goal: 0.41579911111111056 | Blocking: 0.0026968888888888915 | Time: 67841.66s
+Started Experiment 8: Number of agents: 750, World size: 160, Obstacle probability: 0.10
+[EPISODE 8] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 697/750 |Robot: 0.0 | Obstacle: 0.0 || Reward: -29.72134666666672 | On Goal: 0.41431822222222203 | Blocking: 0.0032835555555555556 | Time: 59017.25s
+Started Experiment 9: Number of agents: 750, World size: 160, Obstacle probability: 0.20
+[EPISODE 9] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 584/750 |Robot: 0.0 | Obstacle: 0.0 || Reward: -60.69124000000027 | On Goal: 0.31613511111111114 | Blocking: 0.016332444444444476 | Time: 55665.74s
+Started Experiment 10: Number of agents: 1000, World size: 160, Obstacle probability: 0.00
+[EPISODE 10] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 818/1000 |Robot: 0.0 | Obstacle: 0.0 || Reward: -32.89947000000038 | On Goal: 0.30382799999999854 | Blocking: 0.0023129999999999904 | Time: 106311.72s
+Started Experiment 11: Number of agents: 1000, World size: 160, Obstacle probability: 0.10
+[EPISODE 11] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 910/1000 |Robot: 0.0 | Obstacle: 0.0 || Reward: -35.17621000000034 | On Goal: 0.29821099999999967 | Blocking: 0.005015999999999978 | Time: 98505.97s
+Started Experiment 12: Number of agents: 1000, World size: 160, Obstacle probability: 0.20
+[EPISODE 12] Success: False | Steps: 512 || Collisions: 0.0 | Agents Completed: 768/1000 |Robot: 0.0 | Obstacle: 0.0 || Reward: -64.03089000000061 | On Goal: 0.23016900000000018 | Blocking: 0.013729999999999982 | Time: 91508.39s
+
+ALL EXPERIMENTS DONE
+Success Rate: 0.00%
+Collision Rate: 0.00%
+Avg Steps per Episode: 512.00
+Overall Agent Completion Rate: 82.706%
+Avg Reward per Step: -0.0969
+Avg On Goal per Step: 0.0005
+Avg Blocking per Step: 0.0000
+Avg Robot Collisions per Step: 0.0000
+Avg Obstacle Collisions per Step: 0.0000

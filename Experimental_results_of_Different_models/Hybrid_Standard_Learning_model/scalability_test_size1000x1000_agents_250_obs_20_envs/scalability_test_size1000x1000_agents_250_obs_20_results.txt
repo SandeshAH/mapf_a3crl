@@ -1,0 +1,23 @@
+Started Experiment 1: Number of agents: 250, World size: 1000, Obstacle probability: 0.00
+[EPISODE 1] Success: False | Steps: 2500 || Collisions: 840.648 | Agents Completed: 32/250 |Robot: 85.08 | Obstacle: 755.568 || Reward: -2077.4623999999862 | On Goal: 1.0319999999999385 | Blocking: 0.0 | Time: 688271.72s
+Started Experiment 1: Number of agents: 250, World size: 1000, Obstacle probability: 0.10
+[EPISODE 1] Success: False | Steps: 2500 || Collisions: 851.346 | Agents Completed: 9/250 |Robot: 51.132 | Obstacle: 800.214 || Reward: -843.2223999999953 | On Goal: 0.3122880000000092 | Blocking: 0.0 | Time: 754552.91s
+Started Experiment 1: Number of agents: 250, World size: 1000, Obstacle probability: 0.20
+[EPISODE 1] Success: False | Steps: 2500 || Collisions: 860.372 | Agents Completed: 4/250 |Robot: 4.952 | Obstacle: 855.42 || Reward: -2214.0668000000287 | On Goal: 0.15308799999999023 | Blocking: 0.0 | Time: 744472.82s
+
+ALL EXPERIMENTS DONE
+Success Rate: 0.00%
+Collision Rate: 34.41%
+Avg Steps per Episode: 2500.00
+Avg Reward per Step: -0.8856
+Avg On Goal per Step: 0.0001
+Avg Blocking per Step: 0.0000
+Avg Robot Collisions per Step: 0.0020
+Avg Obstacle Collisions per Step: 0.3422
+
+Started Experiment 1: Number of agents: 250, World size: 1000, Obstacle probability: 0.00
+[EPISODE 1] Success: False | Steps: 2500 || Collisions: 0.0 | Agents Completed: 32/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: -2077.4623999999862 | On Goal: 1.0319999999999385 | Blocking: 0.0 | Time: 688271.72s
+Started Experiment 1: Number of agents: 250, World size: 1000, Obstacle probability: 0.10
+[EPISODE 1] Success: False | Steps: 2500 || Collisions: 0.0 | Agents Completed: 9/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: -843.2223999999953 | On Goal: 0.3122880000000092 | Blocking: 0.0 | Time: 754552.91s
+Started Experiment 1: Number of agents: 250, World size: 1000, Obstacle probability: 0.20
+[EPISODE 1] Success: False | Steps: 2500 || Collisions: 0.0 | Agents Completed: 4/250 |Robot: 0.0 | Obstacle: 0.0 || Reward: -2214.0668000000287 | On Goal: 0.15308799999999023 | Blocking: 0.0 | Time: 744472.82s
